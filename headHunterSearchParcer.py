@@ -11,12 +11,6 @@
 
 import requests
 
-def main():
-    pass
-
-if __name__ == '__main__':
-    main()
-
 class Vacancy:
 
     def getVacancyData(self, vacancyText):
@@ -31,7 +25,7 @@ class Vacancy:
     def getVacancyStr(self):
         return self.name + ';' + self.ref
 
-class PageParser:
+class SearchPageParser:
     def setPageText(self, pageText):
         self.elementIndexStart = []
         self.vacancyText = []
@@ -66,57 +60,81 @@ class PageParser:
 
         i = 5
 
-headers = {
+class HeadHunterParser:
 
-    'Host': 'tver.hh.ru',
-    'Connection': 'keep-alive',
-    'sec-ch-ua': '"Google Chrome";v="95", "Chromium";v="95", ";Not A Brand";v="99"',
-    'sec-ch-ua-mobile': '?0',
-    'sec-ch-ua-platform': '"Windows"',
-    'Upgrade-Insecure-Requests': '1',
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36',
-    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
-    'Sec-Fetch-Site': 'same-origin',
-    'Sec-Fetch-Mode': 'navigate',
-    'Sec-Fetch-User': '?1',
-    'Sec-Fetch-Dest': 'document',
-    'Referer': 'https://tver.hh.ru/search/vacancy?clusters=true&ored_clusters=true&enable_snippets=true&salary=&text=developer',
-    'Accept-Encoding': 'gzip, deflate, br',
-    'Accept-Language': 'ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7'
-}
+    def __init__(self):
+
+        self.headers = {
+
+            'Host': 'tver.hh.ru',
+            'Connection': 'keep-alive',
+            'sec-ch-ua': '"Google Chrome";v="95", "Chromium";v="95", ";Not A Brand";v="99"',
+            'sec-ch-ua-mobile': '?0',
+            'sec-ch-ua-platform': '"Windows"',
+            'Upgrade-Insecure-Requests': '1',
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36',
+            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+            'Sec-Fetch-Site': 'same-origin',
+            'Sec-Fetch-Mode': 'navigate',
+            'Sec-Fetch-User': '?1',
+            'Sec-Fetch-Dest': 'document',
+            'Referer': 'https://tver.hh.ru/search/vacancy?clusters=true&ored_clusters=true&enable_snippets=true&salary=&text=developer',
+            'Accept-Encoding': 'gzip, deflate, br',
+            'Accept-Language': 'ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7'
+        }
+        self.pageParser = SearchPageParser()
+
+    def parsePagesByQuerry(self, searchQuery, pageIndex):
+        vacancies = []
+        URL = "https://tver.hh.ru/search/vacancy?clusters=true&ored_clusters=true&enable_snippets=true&salary=&text=" + searchQuery + "&page=" + str(pageIndex)
+        r = requests.get(url = URL, headers = self.headers)
+        gCnt = 0
+        isError = False
+        if(r.status_code == 404):
+            isError = True
+        else:
+            print("#############Current Page is - ", pageIndex, "#############")
+            self.pageParser.setPageText(r.text)
+
+            keyWord = '<a class="bloko-link" data-qa="vacancy-serp__vacancy-title" target="_blank" href="'
+            cnt = self.pageParser.findElements(keyWord)
+            self.pageParser.findVacancyText()
+
+            for i in range(0,cnt[0]-1):
+                v = Vacancy()
+                v.getVacancyData(self.pageParser.vacancyText[i])
+                vacancies.append(v)
+                gCnt = gCnt + 1
+                print(searchQuery, "page number - " + str(pageIndex)+":", " vacancy position - " + str(gCnt), v.getVacancyStr())
+        return [isError,vacancies]
+
+    def parseAllPagesByQuerry(self, searchQuery, outputDirectory):
+        isError = False
+        pageIndex = 0
+        with open(outputDirectory + searchQuery + '.txt','w') as f:
+            while(not(isError)):
+                rez = self.parsePagesByQuerry(searchQuery, pageIndex)
+                isError = rez[0]
+                pageIndex = pageIndex + 1
+                if(not(isError)):
+                    v = rez[1:len(rez)+1][0]
+                    for x in v:
+                        f.write(x.getVacancyStr() + "\n")
 
 
-#searchQueryes = ['разработчик','Python','программист python','Android','Android developer','developer', 'unity', 'junior developer']
-searchQueryes = ['unity', 'junior developer']
-pageParser = PageParser()
+def main():
 
-for searchQuery in searchQueryes:
-    currentPageIndex = 0
-    gCnt = 0
-    isError = False
-    with open(searchQuery + '.txt', 'w') as f:
-        while(not(isError)):
+    searchQueryes = ['разработчик','Python','программист python','Android','Android developer','developer', 'unity', 'junior developer', 'unity', 'junior developer']
+    parser = HeadHunterParser()
 
-            vacancies = []
-            URL = "https://tver.hh.ru/search/vacancy?clusters=true&ored_clusters=true&enable_snippets=true&salary=&text=" + searchQuery + "&page=" + str(currentPageIndex)
-            r = requests.get(url = URL, headers = headers)
-            if(r.status_code == 404):
-                isError = True
-            else:
-                print("#############Current Page is - ", currentPageIndex, "#############")
-                pageParser.setPageText(r.text)
+    for searchQuery in searchQueryes:
+        res = parser.parseAllPagesByQuerry(searchQuery, 'headHunterVacancies/')
 
-                keyWord = '<a class="bloko-link" data-qa="vacancy-serp__vacancy-title" target="_blank" href="'
-                cnt = pageParser.findElements(keyWord)
-                pageParser.findVacancyText()
+    pass
 
-                for i in range(0,cnt[0]-1):
-                    v = Vacancy()
-                    v.getVacancyData(pageParser.vacancyText[i])
-                    vacancies.append(v)
-                    gCnt = gCnt + 1
-                    f.write(str(gCnt) + ";" + v.getVacancyStr() + "\n")
-                    print(searchQuery, gCnt, v.getVacancyStr())
+if __name__ == '__main__':
+    main()
 
 
-                currentPageIndex = currentPageIndex + 1
+
+
