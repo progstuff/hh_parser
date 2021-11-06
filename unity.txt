@@ -1,0 +1,660 @@
+1;Unity Developer;https://tver.hh.ru/vacancy/49385533
+2;Unity Developer;https://tver.hh.ru/vacancy/48679089
+3;Unity Tech Lead;https://tver.hh.ru/vacancy/47950063
+4;Unity Tech Lead;https://tver.hh.ru/vacancy/47950159
+5;Unity Tech Lead;https://tver.hh.ru/vacancy/47950178
+6;Unity Tech Lead;https://tver.hh.ru/vacancy/47950245
+7;Unity Tech Lead;https://tver.hh.ru/vacancy/47950319
+8;Lead Unity Developer (Middle);https://tver.hh.ru/vacancy/48387041
+9;Junior Unity Developer;https://tver.hh.ru/vacancy/49273010
+10;Lead Unity Developer (Middle);https://tver.hh.ru/vacancy/48387040
+11;Lead Unity Developer (Middle);https://tver.hh.ru/vacancy/48387038
+12;Lead Unity Developer (Middle);https://tver.hh.ru/vacancy/48387039
+13;Junior Unity Developer;https://tver.hh.ru/vacancy/49273208
+14;Junior Unity Developer;https://tver.hh.ru/vacancy/49273011
+15;Junior Unity Developer;https://tver.hh.ru/vacancy/49273012
+16;Senior Unity - разработчик/Unity Senior Developer;https://tver.hh.ru/vacancy/49291827
+17;Junior Unity Developer;https://tver.hh.ru/vacancy/49273013
+18;Junior Unity Developer;https://tver.hh.ru/vacancy/49273014
+19;Ведущий Unity разработчик (тимлид) / Senior Team Lead;https://tver.hh.ru/vacancy/48590943
+20;Junior Unity Developer;https://tver.hh.ru/vacancy/49273209
+21;Unity C# разработчик;https://tver.hh.ru/vacancy/49130177
+22;Разработчик Unity\Программист C#;https://tver.hh.ru/vacancy/49007654
+23;Unity Developer;https://tver.hh.ru/vacancy/49352261
+24;Разработчик игр на Unity (Senior);https://tver.hh.ru/vacancy/48828773
+25;Unity-разработчик;https://tver.hh.ru/vacancy/48624679
+26;Senior Unity Developer;https://tver.hh.ru/vacancy/47937357
+27;Unity разработчик;https://tver.hh.ru/vacancy/49329769
+28;C# developer (Unity разработчик);https://tver.hh.ru/vacancy/49092114
+29;Senior / Middle Unity разработчик;https://tver.hh.ru/vacancy/49217674
+30;Unity Developer (С#, Unity 3D);https://tver.hh.ru/vacancy/46486635
+31;Разработчик игр на Unity (Middle);https://tver.hh.ru/vacancy/48828573
+32;C# Unity Developer;https://tver.hh.ru/vacancy/49318262
+33;Senior Unity Developer;https://tver.hh.ru/vacancy/47937359
+34;Junior Unity-разработчик (AR/VR);https://tver.hh.ru/vacancy/48615169
+35;Unity 3D developer (mobile RTS);https://tver.hh.ru/vacancy/48264981
+36;Junior unity developer / программист;https://tver.hh.ru/vacancy/48707233
+37;Разработчик на Unity (middle)/ unity developer;https://tver.hh.ru/vacancy/49355847
+38;Старший разработчик Unity 3D C# / Unity 3D C# Senior developer;https://tver.hh.ru/vacancy/47523114
+39;Unity Developer;https://tver.hh.ru/vacancy/48043525
+40;Unity Developer (gamedev);https://tver.hh.ru/vacancy/48918542
+41;Unity разработчик;https://tver.hh.ru/vacancy/48967218
+42;Middle Unity Developer;https://tver.hh.ru/vacancy/47645932
+43;Junior Unity Developer;https://tver.hh.ru/vacancy/40521801
+44;Unity developer (android);https://tver.hh.ru/vacancy/46952862
+45;Middle Unity Developer;https://tver.hh.ru/vacancy/49194723
+46;Unity C# Developer (удаленная работа);https://tver.hh.ru/vacancy/48416913
+47;Unity-разработчик;https://tver.hh.ru/vacancy/49316675
+48;Unity Developer / Программист Unity (C#);https://tver.hh.ru/vacancy/47464832
+49;Senior/Lead Unity Developer;https://tver.hh.ru/vacancy/49381711
+50;Middle Unity Developer;https://tver.hh.ru/vacancy/45851588
+51;Junior Unity Developer for DGN;https://tver.hh.ru/vacancy/48130377
+52;Технический художник (Unity) / Technical artist (Unity);https://tver.hh.ru/vacancy/46920815
+53;Senior Unity Developer (MMORTS, Москва);https://tver.hh.ru/vacancy/48840623
+54;Unity developer (мобильная разработка);https://tver.hh.ru/vacancy/49070389
+55;Unity разработчик (VR);https://tver.hh.ru/vacancy/49296765
+56;Unity developer / Разработчик Unity приложений (Remote);https://tver.hh.ru/vacancy/48959000
+57;Senior Unity C# Developer / программист;https://tver.hh.ru/vacancy/38630311
+58;Технический художник (Unity) / Technical artist (Unity);https://tver.hh.ru/vacancy/46920811
+59;Технический художник (Unity) / Technical artist (Unity);https://tver.hh.ru/vacancy/46920818
+60;Junior Unity developer;https://tver.hh.ru/vacancy/44226070
+61;Unity/C# разработчик (головоломки, match-3);https://tver.hh.ru/vacancy/47370068
+62;Middle Unity разработчик / Unity3d;https://tver.hh.ru/vacancy/48693242
+63;Unity Developer (Vitebsk);https://tver.hh.ru/vacancy/48741874
+64;Middle Unity Developer for DGN;https://tver.hh.ru/vacancy/49373525
+65;Unity Developer;https://tver.hh.ru/vacancy/47492976
+66;Senior Unity Developer;https://tver.hh.ru/vacancy/49314311
+67;Unity-разработчик;https://tver.hh.ru/vacancy/49183831
+68;Unity Developer;https://tver.hh.ru/vacancy/48362197
+69;Разработчик Unity;https://tver.hh.ru/vacancy/49207812
+70;Unity разработчик;https://tver.hh.ru/vacancy/49157919
+71;Unity/C# game developer;https://tver.hh.ru/vacancy/49130927
+72;Unity 3D разработчик (Tricks);https://tver.hh.ru/vacancy/46276135
+73;C# Unity разработчик;https://tver.hh.ru/vacancy/49143753
+74;Unity Developer;https://tver.hh.ru/vacancy/49123626
+75;Middle/Senior C# Unity developer;https://tver.hh.ru/vacancy/48920820
+76;Unity Middle Developer;https://tver.hh.ru/vacancy/49101331
+77;Преподаватель курса “разработчик игр на Unity”;https://tver.hh.ru/vacancy/49118382
+78;Unity разработчик;https://tver.hh.ru/vacancy/49121651
+79;Unity 3D Developer на Hyper casual игры;https://tver.hh.ru/vacancy/48612483
+80;Unity Developer;https://tver.hh.ru/vacancy/49114447
+81;Senior JS Game Developer, Cocos Creator/Unity;https://tver.hh.ru/vacancy/48860166
+82;Senior JS Game Developer, Cocos Creator/Unity;https://tver.hh.ru/vacancy/48860165
+83;Unity Разработчик / Unity Developer / Программист (удаленная работа);https://tver.hh.ru/vacancy/47894831
+84;Middle Unity Developer;https://tver.hh.ru/vacancy/49049076
+85;Unity-разработчик;https://tver.hh.ru/vacancy/49083982
+86;Программист Unity3D;https://tver.hh.ru/vacancy/48929824
+87;Разработчик Unity / Unity3D developer;https://tver.hh.ru/vacancy/48960664
+88;Unity Developer, remote;https://tver.hh.ru/vacancy/48679090
+89;Senior Unity Developer;https://tver.hh.ru/vacancy/49172842
+90;Unity 3D GameDev разработчик;https://tver.hh.ru/vacancy/48793229
+91;Разработчик Unity (удаленно);https://tver.hh.ru/vacancy/48728261
+92;Разработчик Unity;https://tver.hh.ru/vacancy/47345323
+93;Unity developer;https://tver.hh.ru/vacancy/43569369
+94;Разработчик Unity;https://tver.hh.ru/vacancy/48845420
+95;Unity Developer;https://tver.hh.ru/vacancy/48837895
+96;Unity developer (Ugraph);https://tver.hh.ru/vacancy/45194355
+97;Unity developer;https://tver.hh.ru/vacancy/48866776
+98;Lead Unity developer (Emily&#x27;s Stories);https://tver.hh.ru/vacancy/48966432
+99;Senior Unity-разработчик;https://tver.hh.ru/vacancy/48830911
+100;Senior/Lead Unity Developer for Inception XR Project;https://tver.hh.ru/vacancy/49014507
+101;Unity developer;https://tver.hh.ru/vacancy/48574412
+102;Unity Developer Junior на мобильную RTS;https://tver.hh.ru/vacancy/43255464
+103;Middle Unity Developer;https://tver.hh.ru/vacancy/48515229
+104;Unity developer;https://tver.hh.ru/vacancy/37311181
+105;Senior Unity Developer / Старший программист Unity;https://tver.hh.ru/vacancy/48650307
+106;Unity-программист (Удаленно);https://tver.hh.ru/vacancy/48627344
+107;Unity разработчик игр;https://tver.hh.ru/vacancy/48507099
+108;Unity-программист (Удаленно);https://tver.hh.ru/vacancy/48627343
+109;Разработчик Unity 3D;https://tver.hh.ru/vacancy/48885854
+110;Middle-Senior Unity developer;https://tver.hh.ru/vacancy/48664982
+111;Разработчик Unity 3D;https://tver.hh.ru/vacancy/48544096
+112;Unity Developer;https://tver.hh.ru/vacancy/47854424
+113;Разработчик VR (Unity);https://tver.hh.ru/vacancy/48471808
+114;Middle-Senior Unity developer;https://tver.hh.ru/vacancy/48664980
+115;Unity developer (С#);https://tver.hh.ru/vacancy/48568357
+116;Middle-Senior Unity developer;https://tver.hh.ru/vacancy/48664981
+117;Unity Developer;https://tver.hh.ru/vacancy/44847648
+118;Преподаватель по Unity;https://tver.hh.ru/vacancy/47667405
+119;Level Artist (Unity);https://tver.hh.ru/vacancy/48974126
+120;Unity​​​​​​​ developer;https://tver.hh.ru/vacancy/48961102
+121;Менеджер по продажам курсов;https://tver.hh.ru/vacancy/49345541
+122;3D художник;https://tver.hh.ru/vacancy/49296888
+123;C# Client Developer;https://tver.hh.ru/vacancy/49289839
+124;Senior Unreal Engine Developer (Rapid Prototyping);https://tver.hh.ru/vacancy/47906099
+125;GameDev Art Director / Игровой Арт-Директор;https://tver.hh.ru/vacancy/48891912
+126;Junior Unity Developer;https://tver.hh.ru/vacancy/48582436
+127;Junior Unity разработчик;https://tver.hh.ru/vacancy/44885104
+128;Unity Programmer / Юнити Программист;https://tver.hh.ru/vacancy/48811173
+129;Unity-разработчик (кор-геймплей);https://tver.hh.ru/vacancy/48320653
+130;Middle C# Unity Developer (удаленно);https://tver.hh.ru/vacancy/49184808
+131;Middle / Senior C# Developer (Unity, Research &amp; Development);https://tver.hh.ru/vacancy/48042741
+132;Unity-разработчик (коммерческие фичи);https://tver.hh.ru/vacancy/48320630
+133;Unity Developer (Middle, Senior);https://tver.hh.ru/vacancy/48584300
+134;Программист Unity3D;https://tver.hh.ru/vacancy/48806768
+135;Middle / Middle+ Unity Developer;https://tver.hh.ru/vacancy/48731650
+136;Game Designer;https://tver.hh.ru/vacancy/48974480
+137;Game Designer (Гейм Дизайнер);https://tver.hh.ru/vacancy/49218034
+138;3D artist (unity/hypercasual);https://tver.hh.ru/vacancy/49378136
+139;Technical Unity Lead;https://tver.hh.ru/vacancy/48983540
+140;Game Developer (TypeScript, JavaScript, C++, Unity);https://tver.hh.ru/vacancy/48699307
+141;Game Designer;https://tver.hh.ru/vacancy/48498245
+142;Developer Unity3D/Разработчик Unity3D;https://tver.hh.ru/vacancy/48220524
+143;2D Animator;https://tver.hh.ru/vacancy/49383698
+144;Head of User Acquisition (Hypercasual Games / Flime by Gismart);https://tver.hh.ru/vacancy/48633228
+145;Lead/Senior 3d Artist;https://tver.hh.ru/vacancy/48050219
+146;Game designer;https://tver.hh.ru/vacancy/41828426
+147;Ведущий геймдизайнер / Lead Game Designer;https://tver.hh.ru/vacancy/48109791
+148;2D Artist (mobile games);https://tver.hh.ru/vacancy/49010777
+149;Level game designer/Гейм-дизайнер уровней;https://tver.hh.ru/vacancy/48635606
+150;Junior 2D Artist;https://tver.hh.ru/vacancy/48841313
+151;Unity UI Programmer;https://tver.hh.ru/vacancy/48163782
+152;Game Designer;https://tver.hh.ru/vacancy/49160715
+153;Lead 3D Artist;https://tver.hh.ru/vacancy/48488523
+154;3D Animator;https://tver.hh.ru/vacancy/48854842
+155;Technical Unity Lead;https://tver.hh.ru/vacancy/48983539
+156;Senior VFX artist;https://tver.hh.ru/vacancy/48757897
+157;C++ программист игр под PC, PlayStation 5 и Xbox Series X (middle/senior);https://tver.hh.ru/vacancy/49182061
+158;Художник по специальным эффектам / VFX Artist;https://tver.hh.ru/vacancy/45083086
+159;Senior Game Designer (Midcore);https://tver.hh.ru/vacancy/48750002
+160;Разработчик Unity3D;https://tver.hh.ru/vacancy/47980590
+161;Middle 3D Character Artist;https://tver.hh.ru/vacancy/48750075
+162;.NET Engineer with Unity 3D Experience;https://tver.hh.ru/vacancy/43940907
+163;Game Designer (Hyper Casual);https://tver.hh.ru/vacancy/48931385
+164;QA Engineer (GameDev);https://tver.hh.ru/vacancy/48378455
+165;2D художник;https://tver.hh.ru/vacancy/48691267
+166;Technical Game Designer (Junior);https://tver.hh.ru/vacancy/49354012
+167;3D-моделлер (Gamedev);https://tver.hh.ru/vacancy/48288755
+168;Level designer;https://tver.hh.ru/vacancy/47313961
+169;3d character artist / 3d моделлер (Gamedev);https://tver.hh.ru/vacancy/49033162
+170;Unreal Engine 3D-generalist;https://tver.hh.ru/vacancy/48417119
+171;Game designer / Геймдизайнер;https://tver.hh.ru/vacancy/49099175
+172;3D Artist;https://tver.hh.ru/vacancy/49284317
+173;Motion Designer;https://tver.hh.ru/vacancy/49076148
+174;3d character animator (gamedev);https://tver.hh.ru/vacancy/49011230
+175;Intern VFX Artist;https://tver.hh.ru/vacancy/49358767
+176;Ведущий разработчик С#/C++;https://tver.hh.ru/vacancy/49200886
+177;Game Developer (Front-End);https://tver.hh.ru/vacancy/47739305
+178;Level Designer (Unity3D) / 3D Generalist / Technical artist;https://tver.hh.ru/vacancy/47693304
+179;3D Artist (Gamedev);https://tver.hh.ru/vacancy/49252221
+180;C++ Developer (WoT);https://tver.hh.ru/vacancy/49267082
+181;Senior Level Designer UE4 (Старший Дизайнер рівнів UE4);https://tver.hh.ru/vacancy/46639209
+182;QA Engineer;https://tver.hh.ru/vacancy/48279437
+183;C++ Developer;https://tver.hh.ru/vacancy/45976740
+184;Middle / Senior Разработчик Back-End Java / BigData;https://tver.hh.ru/vacancy/48620953
+185;Senior Game Designer (Lead);https://tver.hh.ru/vacancy/48502372
+186;3D Animator;https://tver.hh.ru/vacancy/48855598
+187;Level Designer;https://tver.hh.ru/vacancy/49259981
+188;Senior 3D-Character Animator (Vector Games);https://tver.hh.ru/vacancy/49352877
+189;Lead QA Engineer (Gamedev);https://tver.hh.ru/vacancy/49381173
+190;Unreal Engine Developer;https://tver.hh.ru/vacancy/48695930
+191;Lead 3D Artist;https://tver.hh.ru/vacancy/46308150
+192;3D-моделлер;https://tver.hh.ru/vacancy/49045492
+193;Геймдизайнер (игровые системы) — RPG для ПК и консолей;https://tver.hh.ru/vacancy/48886970
+194;3D Animator;https://tver.hh.ru/vacancy/45908884
+195;VFX Artist (Animator);https://tver.hh.ru/vacancy/49239306
+196;3D Animator;https://tver.hh.ru/vacancy/48805039
+197;3D Environment Artist;https://tver.hh.ru/vacancy/48543632
+198;Левел-художник (MY.GAMES);https://tver.hh.ru/vacancy/48655504
+199;VFX Artist / Художник по спецэффектам на мобильную RTS (Remote);https://tver.hh.ru/vacancy/48585333
+200;3D Generalist / Motion Designer;https://tver.hh.ru/vacancy/48473778
+201;Motion Designer;https://tver.hh.ru/vacancy/48974980
+202;.Net Developer at Cycode;https://tver.hh.ru/vacancy/49051025
+203;2D аниматор / Spine аниматор;https://tver.hh.ru/vacancy/47946691
+204;3Д Художник;https://tver.hh.ru/vacancy/48172079
+205;Художник по визуальным эффектам / VFX designer;https://tver.hh.ru/vacancy/38630306
+206;Программист C++;https://tver.hh.ru/vacancy/45099558
+207;Senior UI artist;https://tver.hh.ru/vacancy/47260518
+208;QA Engineer (RPG Department);https://tver.hh.ru/vacancy/48958038
+209;Аутсорс 3D-generalist;https://tver.hh.ru/vacancy/48359745
+210;UI/UX 2D-artist (gamedev);https://tver.hh.ru/vacancy/49071993
+211;CG Supervisor/Руководитель группы 3D дизайнеров (игровая визуализация);https://tver.hh.ru/vacancy/49044613
+212;AR/MR/VR-разработчик;https://tver.hh.ru/vacancy/48558060
+213;QA Lead (mobile games);https://tver.hh.ru/vacancy/48834574
+214;UI/UX Artist;https://tver.hh.ru/vacancy/49296567
+215;Senior Game Designer;https://tver.hh.ru/vacancy/49030867
+216;Программист анимации / Animation Programmer;https://tver.hh.ru/vacancy/48218946
+217;VFX Художник (Vector Games);https://tver.hh.ru/vacancy/48253756
+218;Backend Developer;https://tver.hh.ru/vacancy/49222737
+219;Middle/ senior C++ developer with Qt;https://tver.hh.ru/vacancy/48573288
+220;Lead QA Engineer;https://tver.hh.ru/vacancy/49252384
+221;Level Designer;https://tver.hh.ru/vacancy/47491768
+222;C++ Developer (WoT);https://tver.hh.ru/vacancy/49267133
+223;UI Художник (Mobile Game);https://tver.hh.ru/vacancy/41527224
+224;Media Buyer / Трафик менеджер / Арбитражник;https://tver.hh.ru/vacancy/49382452
+225;Technical Artist;https://tver.hh.ru/vacancy/48887229
+226;Web-разработчик;https://tver.hh.ru/vacancy/49065699
+227;Technical Artist;https://tver.hh.ru/vacancy/48887228
+228;Motion Designer;https://tver.hh.ru/vacancy/49221996
+229;Программист интерактивного ПО;https://tver.hh.ru/vacancy/49123313
+230;Технический художник / Technical Artist;https://tver.hh.ru/vacancy/32033305
+231;Старший разработчик C++;https://tver.hh.ru/vacancy/48441247
+232;VFX-дизайнер;https://tver.hh.ru/vacancy/48320604
+233;Middle/Senior C# .Net developer;https://tver.hh.ru/vacancy/49004658
+234;Junior Android developer;https://tver.hh.ru/vacancy/45857374
+235;Художник по специальным эффектам / VFX Artist;https://tver.hh.ru/vacancy/42705671
+236;Программист .net Middle/Senior;https://tver.hh.ru/vacancy/44751689
+237;Operations Engineer;https://tver.hh.ru/vacancy/49302971
+238;Программист компьютерного зрения middle;https://tver.hh.ru/vacancy/45786183
+239;.net разработчик;https://tver.hh.ru/vacancy/48585402
+240;3D artist / 3D художник / CG artist;https://tver.hh.ru/vacancy/49369335
+241;Senior UI/UX Designer (Vector Games);https://tver.hh.ru/vacancy/49150237
+242;User Acquisition Manager;https://tver.hh.ru/vacancy/48830924
+243;Преподаватель Python;https://tver.hh.ru/vacancy/49330190
+244;UI/UX дизайнер;https://tver.hh.ru/vacancy/49360136
+245;Senior UI Designer (Artist-Animator)/ Синьор UI Дизайнер (художник-аниматор);https://tver.hh.ru/vacancy/47811537
+246;Senior .NET Developer;https://tver.hh.ru/vacancy/48842506
+247;Backend-программист (PHP);https://tver.hh.ru/vacancy/49085154
+248;Junior iOS developer;https://tver.hh.ru/vacancy/49349826
+249;Преподаватель компьютерных курсов;https://tver.hh.ru/vacancy/48605471
+250;Technical UI Designer;https://tver.hh.ru/vacancy/48381032
+251;Senior Recruiter (contractor);https://tver.hh.ru/vacancy/49333815
+252;Ad Monetization Manager;https://tver.hh.ru/vacancy/48807168
+253;3D Artist/Level Design (3D-моделлер/Левел Дизайн);https://tver.hh.ru/vacancy/48224208
+254;Геймдизайнер;https://tver.hh.ru/vacancy/44845072
+255;DevOps (Middle+);https://tver.hh.ru/vacancy/49384521
+256;Tools Software Developer (New Product);https://tver.hh.ru/vacancy/47213611
+257;UI художник;https://tver.hh.ru/vacancy/48729736
+258;Программист компьютерного зрения junior;https://tver.hh.ru/vacancy/45786010
+259;Ведущий 2/3 D аниматор;https://tver.hh.ru/vacancy/47942024
+260;AI Engineer;https://tver.hh.ru/vacancy/46632678
+261;User Acquisition Manager / Трафик менеджер;https://tver.hh.ru/vacancy/48651138
+262;Преподаватель Python;https://tver.hh.ru/vacancy/49330189
+263;Talent Acquisition Manager;https://tver.hh.ru/vacancy/49333811
+264;Преподаватель кружка программирования для детей;https://tver.hh.ru/vacancy/49112910
+265;Media Buyer / Медиабайер;https://tver.hh.ru/vacancy/48962734
+266;Level Designer;https://tver.hh.ru/vacancy/49342657
+267;Level Designer;https://tver.hh.ru/vacancy/49342655
+268;HR менеджер / Ассистент менеджера проекта;https://tver.hh.ru/vacancy/49375641
+269;Гейм дизайнер /Game designer VR;https://tver.hh.ru/vacancy/49334727
+270;Project Manager;https://tver.hh.ru/vacancy/49044166
+271;2D Аниматор Spine;https://tver.hh.ru/vacancy/49218627
+272;Project manager;https://tver.hh.ru/vacancy/49215559
+273;Junior Media Buyer / Младший медиабайер;https://tver.hh.ru/vacancy/49298460
+274;Media buyer / Арбитражник / Трафик менеджер;https://tver.hh.ru/vacancy/49286732
+275;Инженер АСУ;https://tver.hh.ru/vacancy/48622148
+276;Маркетолог;https://tver.hh.ru/vacancy/48047048
+277;Трафик-менеджер;https://tver.hh.ru/vacancy/48431608
+278;Ad networks manager / User Acquisition manager / Media buyer / Трафик менеджер;https://tver.hh.ru/vacancy/49370116
+279;Переводчик/младший ASO-специалист;https://tver.hh.ru/vacancy/44226278
+280;Помощник Media Buyer | Арбитраж трафика;https://tver.hh.ru/vacancy/48847296
+281;Программист/разработчик Unity (Middle);https://tver.hh.ru/vacancy/47945292
+282;3D моделлер (Unity);https://tver.hh.ru/vacancy/49310053
+283;Unity3D/ C# разработчик;https://tver.hh.ru/vacancy/47766430
+284;Technical game designer (mobile AAA);https://tver.hh.ru/vacancy/49331603
+285;Программист (Upwork.com);https://tver.hh.ru/vacancy/49312003
+286;3d artist / 3d моделлер;https://tver.hh.ru/vacancy/49309206
+287;Game Designer / Геймдизайнер;https://tver.hh.ru/vacancy/46655439
+288;3D Artist;https://tver.hh.ru/vacancy/49310558
+289;Junior Game Designer (Геймдизайнер);https://tver.hh.ru/vacancy/49308598
+290;3D Animator (Generalist);https://tver.hh.ru/vacancy/49325062
+291;Тестировщик (мобильные игры);https://tver.hh.ru/vacancy/49308042
+292;Android-разработчик (VK рекламные технологии);https://tver.hh.ru/vacancy/49305851
+293;Game Designer / Геймдизайнер;https://tver.hh.ru/vacancy/46655440
+294;Game Designer / Геймдизайнер;https://tver.hh.ru/vacancy/46655437
+295;3D Animator (Generalist);https://tver.hh.ru/vacancy/49325063
+296;Game Designer / Геймдизайнер;https://tver.hh.ru/vacancy/46655438
+297;Game Designer / Геймдизайнер;https://tver.hh.ru/vacancy/46655443
+298;IOS/Android разработчик с опытом в Unity;https://tver.hh.ru/vacancy/47735229
+299;Playable Ads Developer (HTML5/JS developer);https://tver.hh.ru/vacancy/47008241
+300;Level Designer (Hyper Casual);https://tver.hh.ru/vacancy/48995778
+301;AdOps / Digital Ad Operations Manager;https://tver.hh.ru/vacancy/49297371
+302;3D Artist;https://tver.hh.ru/vacancy/46895054
+303;Unity3D Developer (Airport City);https://tver.hh.ru/vacancy/46152144
+304;Преподаватель курсов программирования детям (удалённо);https://tver.hh.ru/vacancy/48936975
+305;Продюсер / руководитель проектов (мультимедиа);https://tver.hh.ru/vacancy/48939999
+306;Technical Producer (Unity);https://tver.hh.ru/vacancy/49276398
+307;Technical game designer (mobile AAA);https://tver.hh.ru/vacancy/48706498
+308;Senior C# Developer (gamedev);https://tver.hh.ru/vacancy/49285224
+309;Techical Artist;https://tver.hh.ru/vacancy/47283309
+310;Senior FX-artist/Старший художник по спецэффектам;https://tver.hh.ru/vacancy/48969676
+311;FX-artist/Художник по спецэффектам;https://tver.hh.ru/vacancy/48969558
+312;Technical Producer (Unity);https://tver.hh.ru/vacancy/49276397
+313;Преподаватель компьютерных дисциплин;https://tver.hh.ru/vacancy/48670434
+314;Game Producer;https://tver.hh.ru/vacancy/48809185
+315;Senior QA Engineer;https://tver.hh.ru/vacancy/49298987
+316;Technical Producer (Unity);https://tver.hh.ru/vacancy/49276396
+317;2D-аниматор (Spine) / 2D Animator (gamedev);https://tver.hh.ru/vacancy/49273338
+318;UI Developer (UE4);https://tver.hh.ru/vacancy/48481937
+319;Lead Game Designer;https://tver.hh.ru/vacancy/48791454
+320;Senior QA Engineer;https://tver.hh.ru/vacancy/49298986
+321;Системный аналитик;https://tver.hh.ru/vacancy/47677042
+322;3D Props Artist;https://tver.hh.ru/vacancy/48845134
+323;Unity программист (Senior);https://tver.hh.ru/vacancy/49263288
+324;Графический дизайнер / Graphic designer (gamedev);https://tver.hh.ru/vacancy/48937229
+325;Преподаватель детского направления компьютерных курсов;https://tver.hh.ru/vacancy/48358921
+326;Senior Unity Developer;https://tver.hh.ru/vacancy/49251593
+327;Unity Developer (Shadow Fight 2);https://tver.hh.ru/vacancy/44593899
+328;Unity Developer (Cascadeur Mobile);https://tver.hh.ru/vacancy/46049534
+329;Senior Unity-разработчик (Casual games);https://tver.hh.ru/vacancy/49239256
+330;Автор работ по Unity;https://tver.hh.ru/vacancy/49245035
+331;Автор работ по Unity;https://tver.hh.ru/vacancy/49245034
+332;3D Character Artist;https://tver.hh.ru/vacancy/48845450
+333;Unity/C# разработчик (First-person Shooter);https://tver.hh.ru/vacancy/42235797
+334;Senior 2D - аниматор (Слот-игры);https://tver.hh.ru/vacancy/48186755
+335;Автор работ по Unity;https://tver.hh.ru/vacancy/49245033
+336;Middle Developer Unity 3D C# / Программист-разработчик;https://tver.hh.ru/vacancy/45409547
+337;Senior Developer​​​​​​​ (Unity 3D) / Старший разработчик;https://tver.hh.ru/vacancy/45926429
+338;Unity (hyper-casual) developer;https://tver.hh.ru/vacancy/49242856
+339;.NET Engineer with Unity 3D Experience;https://tver.hh.ru/vacancy/45567834
+340;Автор работ по Unity;https://tver.hh.ru/vacancy/49245036
+341;Game Designer (Action-Shooter);https://tver.hh.ru/vacancy/39390716
+342;Game Designer;https://tver.hh.ru/vacancy/49226496
+343;Программист игровой логики (Gameplay programmer);https://tver.hh.ru/vacancy/34285397
+344;Технический директор (CTO);https://tver.hh.ru/vacancy/49252759
+345;Программист;https://tver.hh.ru/vacancy/49220091
+346;3D-моделлер;https://tver.hh.ru/vacancy/49207733
+347;Системный аналитик;https://tver.hh.ru/vacancy/47984775
+348;Инженер-программист;https://tver.hh.ru/vacancy/49220116
+349;Level Designer (Action-Shooter);https://tver.hh.ru/vacancy/38544798
+350;Гейм-дизайнер;https://tver.hh.ru/vacancy/49227694
+351;Инженер-программист SCADA;https://tver.hh.ru/vacancy/49220146
+352;Unity Developer (Hybrid Casual);https://tver.hh.ru/vacancy/44915397
+353;UX/UI Designer (NFT-гейминг, удаленно);https://tver.hh.ru/vacancy/49206250
+354;Unity разработчик (удаленно);https://tver.hh.ru/vacancy/49181240
+355;IOS-разработчик;https://tver.hh.ru/vacancy/46805671
+356;Senior Android developer;https://tver.hh.ru/vacancy/47596940
+357;Senior Deployment Engineer;https://tver.hh.ru/vacancy/49221146
+358;Системный аналитик (команда проекта Unity);https://tver.hh.ru/vacancy/47727606
+359;Product Owner;https://tver.hh.ru/vacancy/49219885
+360;Senior Android developer;https://tver.hh.ru/vacancy/42200670
+361;VFX designer;https://tver.hh.ru/vacancy/47479832
+362;CTO/Технический директор (World War Heroes, Modern Strike);https://tver.hh.ru/vacancy/49199570
+363;.NET разработчик;https://tver.hh.ru/vacancy/46548013
+364;C# Developer (gamedev);https://tver.hh.ru/vacancy/49165408
+365;Senior Game Designer;https://tver.hh.ru/vacancy/49164566
+366;2d Аниматор (Unity);https://tver.hh.ru/vacancy/42933596
+367;Java Программист;https://tver.hh.ru/vacancy/49184122
+368;Middle Game Designer;https://tver.hh.ru/vacancy/49164578
+369;Gamedev UI artist;https://tver.hh.ru/vacancy/49164586
+370;Technical Game Designer (Casual);https://tver.hh.ru/vacancy/48403853
+371;Unity3d Developer;https://tver.hh.ru/vacancy/49143444
+372;Level Designer;https://tver.hh.ru/vacancy/49156967
+373;Таргетолог;https://tver.hh.ru/vacancy/49177799
+374;Technical Game Designer (Casual);https://tver.hh.ru/vacancy/48403855
+375;Программист Unreal Engine VR;https://tver.hh.ru/vacancy/49151903
+376;Трафик-менеджер;https://tver.hh.ru/vacancy/49197820
+377;3D Artist (Middle+/ Senior);https://tver.hh.ru/vacancy/49153005
+378;Game Designer (hybrid casual);https://tver.hh.ru/vacancy/44309444
+379;2d Аниматор;https://tver.hh.ru/vacancy/48280947
+380;3d Animator Unity;https://tver.hh.ru/vacancy/49126202
+381;Технический художник;https://tver.hh.ru/vacancy/49126668
+382;Project manager (gamedev);https://tver.hh.ru/vacancy/46734414
+383;Middle / Senior C# Unity Engineer;https://tver.hh.ru/vacancy/49105397
+384;Middle / Senior C# Unity Engineer;https://tver.hh.ru/vacancy/49105367
+385;3D Artist;https://tver.hh.ru/vacancy/49122887
+386;Middle / Senior C# Unity Engineer;https://tver.hh.ru/vacancy/49105425
+387;User acquisition / Traffic manager;https://tver.hh.ru/vacancy/49146087
+388;User acquisition / Traffic manager;https://tver.hh.ru/vacancy/49146086
+389;Преподаватель онлайн-курса Геймдизайн (Unity) для детей;https://tver.hh.ru/vacancy/48871289
+390;Data Platform Developer;https://tver.hh.ru/vacancy/45890475
+391;3D Artist (Props);https://tver.hh.ru/vacancy/48333095
+392;Game Designer;https://tver.hh.ru/vacancy/47497649
+393;C# Developer;https://tver.hh.ru/vacancy/49108304
+394;3D художник/3D Artist;https://tver.hh.ru/vacancy/46113559
+395;Team Lead (Unity), Remote;https://tver.hh.ru/vacancy/49118601
+396;Defold Game Developer;https://tver.hh.ru/vacancy/49108841
+397;Технический художник;https://tver.hh.ru/vacancy/49126634
+398;Аниматор (Риггер 3D);https://tver.hh.ru/vacancy/49120439
+399;Senior Game Designer;https://tver.hh.ru/vacancy/47497657
+400;Game Designer;https://tver.hh.ru/vacancy/47497673
+401;JavaScript developer;https://tver.hh.ru/vacancy/48799694
+402;Mocap Animator;https://tver.hh.ru/vacancy/48332989
+403;2D Аниматор Middle/+ (Spine) FREELANCE;https://tver.hh.ru/vacancy/49111007
+404;3D Graphics Software Engineer;https://tver.hh.ru/vacancy/49118451
+405;Android developer / Мобильный разработчик;https://tver.hh.ru/vacancy/49121732
+406;Senior Go developer;https://tver.hh.ru/vacancy/49109265
+407;UI-дизайнер (Rush Royale);https://tver.hh.ru/vacancy/47608289
+408;User Acquisition Manager;https://tver.hh.ru/vacancy/48287969
+409;Видеодизайнер;https://tver.hh.ru/vacancy/48298313
+410;User Acquisition Manager / Media buyer WW;https://tver.hh.ru/vacancy/49130192
+411;Геймдизайнер уровней/ Game designer;https://tver.hh.ru/vacancy/47546944
+412;3D Character Artist;https://tver.hh.ru/vacancy/49257659
+413;Менеджер по работе с партнерами / Partnership manager;https://tver.hh.ru/vacancy/49131991
+414;User Acquisition Manager;https://tver.hh.ru/vacancy/48287971
+415;User acquisition manager;https://tver.hh.ru/vacancy/47596382
+416;Affiliate manager (Мобильная реклама);https://tver.hh.ru/vacancy/44792546
+417;Code team lead/Менеджер программистов;https://tver.hh.ru/vacancy/46821518
+418;Junior product marketing manager;https://tver.hh.ru/vacancy/48329201
+419;Senior Level Designer UE4 (Старший Дизайнер уровней UE4);https://tver.hh.ru/vacancy/42629817
+420;Преподаватель по программированию для детей и подростков;https://tver.hh.ru/vacancy/48537024
+421;Unity 3D Developer (hyper casual / hybrid casual);https://tver.hh.ru/vacancy/49041470
+422;Unity 3D Developer (hyper casual / hybrid casual);https://tver.hh.ru/vacancy/49041468
+423;3D Animator (Casual);https://tver.hh.ru/vacancy/47083204
+424;2d Аниматор;https://tver.hh.ru/vacancy/48197337
+425;Lead 2D Animator (GameDev);https://tver.hh.ru/vacancy/48180330
+426;VFX Artist (Casual);https://tver.hh.ru/vacancy/47911477
+427;2D художник;https://tver.hh.ru/vacancy/49072969
+428;VFX Artist (Casual);https://tver.hh.ru/vacancy/47911479
+429;2D Animator (GameDev);https://tver.hh.ru/vacancy/48179506
+430;Senior Android developer;https://tver.hh.ru/vacancy/47440106
+431;Lead 2D Animator (GameDev);https://tver.hh.ru/vacancy/48179857
+432;Unity3D/C# разработчик;https://tver.hh.ru/vacancy/48187822
+433;Lead 2D Animator (GameDev);https://tver.hh.ru/vacancy/48179856
+434;3D Motion designer / 3D Моушн Дизайнер;https://tver.hh.ru/vacancy/49209525
+435;3D Animator (Casual);https://tver.hh.ru/vacancy/47083205
+436;Lead 2D Animator (GameDev);https://tver.hh.ru/vacancy/48179855
+437;2D Animator (GameDev);https://tver.hh.ru/vacancy/48178697
+438;2D Animator (GameDev);https://tver.hh.ru/vacancy/48178696
+439;VFX Artist (Casual);https://tver.hh.ru/vacancy/47911476
+440;3D-моделлер (MY.GAMES);https://tver.hh.ru/vacancy/49034781
+441;UI/UX дизайнер;https://tver.hh.ru/vacancy/49048810
+442;Junior Тестировщик игр (manual);https://tver.hh.ru/vacancy/49043352
+443;Преподаватель постоянных уроков по программированию;https://tver.hh.ru/vacancy/49060014
+444;3D Аниматор / 3D Animator;https://tver.hh.ru/vacancy/49039310
+445;Преподаватель постоянных уроков(программирование);https://tver.hh.ru/vacancy/49059947
+446;Unity QA Engineer;https://tver.hh.ru/vacancy/45976389
+447;Senior Unity Developer;https://tver.hh.ru/vacancy/48129445
+448;Младший геймдизайнер (мобильный проект);https://tver.hh.ru/vacancy/49053381
+449;Senior Unity developer (mobile shooter);https://tver.hh.ru/vacancy/49004659
+450;Преподаватель постоянных уроков по программированию;https://tver.hh.ru/vacancy/49060149
+451;Junior Game Designer;https://tver.hh.ru/vacancy/49031680
+452;Video Content Manager;https://tver.hh.ru/vacancy/49051536
+453;Преподаватель постоянных уроков (IT);https://tver.hh.ru/vacancy/49060044
+454;Lead Unity Developer (Casual);https://tver.hh.ru/vacancy/48093554
+455;UX/UI-дизайнер (MY.GAMES);https://tver.hh.ru/vacancy/48183597
+456;Преподаватель постоянных уроков по программированию;https://tver.hh.ru/vacancy/49060169
+457;Senior Back-end developer;https://tver.hh.ru/vacancy/49051749
+458;Unity3D VR Game Developer;https://tver.hh.ru/vacancy/48985358
+459;Unity3D VR Game Developer;https://tver.hh.ru/vacancy/48985359
+460;VFX-Artist;https://tver.hh.ru/vacancy/49014434
+461;2D-аниматор;https://tver.hh.ru/vacancy/48994251
+462;Motion Designer (GameDev);https://tver.hh.ru/vacancy/41802820
+463;UI/UX Дизайнер / UI/UX Designer (gamedev);https://tver.hh.ru/vacancy/49017942
+464;Менеджер по мобильной рекламе / User Acquisition Manager;https://tver.hh.ru/vacancy/46416204
+465;CG Generalist / Houdini artist, Роботизация;https://tver.hh.ru/vacancy/48990251
+466;Game Designer / Геймдизайнер (Hyper Casual);https://tver.hh.ru/vacancy/48980608
+467;IOS/Android разработчик с опытом в Unity;https://tver.hh.ru/vacancy/47735178
+468;Motion Designer (GameDev);https://tver.hh.ru/vacancy/41802821
+469;Специалист по тестированию (MGVC);https://tver.hh.ru/vacancy/48300408
+470;Unity UI-разработчик (IT Territory);https://tver.hh.ru/vacancy/48964669
+471;Технический директор;https://tver.hh.ru/vacancy/49162205
+472;Lead Unity Developer / Ведущий Unity разработчик на детское направление (gamedev);https://tver.hh.ru/vacancy/47590931
+473;VFX Intern;https://tver.hh.ru/vacancy/49010371
+474;Преподаватель it для детей (программирование, дизайн);https://tver.hh.ru/vacancy/48120259
+475;Middle C# / Unity Developer;https://tver.hh.ru/vacancy/45373404
+476;3D Environment Artist;https://tver.hh.ru/vacancy/47427678
+477;Unity Developer (remote);https://tver.hh.ru/vacancy/48927479
+478;Middle/Senior Unity C# Developer (Удаленная работа, Санкт-Петербург);https://tver.hh.ru/vacancy/49131214
+479;Unity Developer (remote);https://tver.hh.ru/vacancy/48927478
+480;Junior VFX Artist;https://tver.hh.ru/vacancy/48212846
+481;3D-моушен-дизайнер (MY.GAMES);https://tver.hh.ru/vacancy/47764547
+482;Гейм-дизайнер (RnD-команда);https://tver.hh.ru/vacancy/48026747
+483;Разработчик веб-сервисов (junior/middle);https://tver.hh.ru/vacancy/48969342
+484;Graphics Developer (Playable Ads);https://tver.hh.ru/vacancy/48942551
+485;Concept Artist;https://tver.hh.ru/vacancy/48158736
+486;Level Artist;https://tver.hh.ru/vacancy/34470687
+487;3D-аниматор (в отдел &quot;видео продакшн&quot;);https://tver.hh.ru/vacancy/48939537
+488;Художник/Графический дизайнер (Panzerdog);https://tver.hh.ru/vacancy/47821758
+489;3D-моделлер (Studio Nord);https://tver.hh.ru/vacancy/47443039
+490;C#- разработчик;https://tver.hh.ru/vacancy/48918107
+491;Ведущий 3D-художник по окружению (MY.GAMES);https://tver.hh.ru/vacancy/47945260
+492;3D Artist;https://tver.hh.ru/vacancy/47992780
+493;Старший художник по окружению / Environment Artist (MY.GAMES);https://tver.hh.ru/vacancy/47474634
+494;Преподаватель дисциплин IT;https://tver.hh.ru/vacancy/48530631
+495;Методист / разработчик курсов &quot;Roblox&quot;, &quot;Minecraft&quot; в школу программирования для детей;https://tver.hh.ru/vacancy/48911370
+496;VFX Artist;https://tver.hh.ru/vacancy/48910204
+497;3D Animator;https://tver.hh.ru/vacancy/44654868
+498;3D Animator;https://tver.hh.ru/vacancy/48109627
+499;Моушен-дизайнер (VK);https://tver.hh.ru/vacancy/46986298
+500;User acquisition / Traffic manager;https://tver.hh.ru/vacancy/48935670
+501;3D animator / 3D аниматор;https://tver.hh.ru/vacancy/46509785
+502;3D Моушен Дизайнер / 3D Аниматор (Unreal Engine);https://tver.hh.ru/vacancy/48891404
+503;3D Artist;https://tver.hh.ru/vacancy/48009725
+504;Motion Designer;https://tver.hh.ru/vacancy/49052952
+505;Lead Unity Developer (Casual);https://tver.hh.ru/vacancy/45985543
+506;2D Animator;https://tver.hh.ru/vacancy/48027134
+507;Game Artist;https://tver.hh.ru/vacancy/48101382
+508;Программист Unity (руководитель группы);https://tver.hh.ru/vacancy/45289163
+509;Unity Technical Lead (Solitaire);https://tver.hh.ru/vacancy/48875934
+510;Key account manager;https://tver.hh.ru/vacancy/48942223
+511;Technical Artist/Developer;https://tver.hh.ru/vacancy/48875882
+512;Аутсорс 3D-generalist;https://tver.hh.ru/vacancy/48885767
+513;Unity-разработчик (новый проект, MY.GAMES);https://tver.hh.ru/vacancy/46085277
+514;Аутсорс 3D-generalist;https://tver.hh.ru/vacancy/48885768
+515;Lead Unity Developer;https://tver.hh.ru/vacancy/48838939
+516;Врач клинической лабораторной диагностики по контролю качества;https://tver.hh.ru/vacancy/48922896
+517;Аутсорс 3D-generalist;https://tver.hh.ru/vacancy/48885766
+518;3D artist (unity/hypercasual);https://tver.hh.ru/vacancy/48856481
+519;3D художник-аниматор;https://tver.hh.ru/vacancy/49049244
+520;VFX artist;https://tver.hh.ru/vacancy/47974085
+521;Методист / разработчик курсов &quot;Создание сайтов&quot;, &quot;Minecraft&quot; в школу программирования для детей;https://tver.hh.ru/vacancy/48842998
+522;Senior Android developer;https://tver.hh.ru/vacancy/47979283
+523;QA automation engineer (Python) | Remote;https://tver.hh.ru/vacancy/47933162
+524;Level Designer (Junior);https://tver.hh.ru/vacancy/48265227
+525;Middle Mobile QA engineer (gamedev);https://tver.hh.ru/vacancy/48791108
+526;VFX designer;https://tver.hh.ru/vacancy/47983279
+527;Middle Unity С# developer (hyper casual);https://tver.hh.ru/vacancy/48776111
+528;3D Character Artist / 3D Художник по персонажам;https://tver.hh.ru/vacancy/48944607
+529;User Acquisition Manager / Трафик-менеджер;https://tver.hh.ru/vacancy/48004240
+530;3D-моделлер;https://tver.hh.ru/vacancy/48813717
+531;VFX Artist;https://tver.hh.ru/vacancy/48804035
+532;3D Моушен Дизайнер / 3D Аниматор (Unreal Engine);https://tver.hh.ru/vacancy/48806145
+533;Unity developer (casual);https://tver.hh.ru/vacancy/48745686
+534;Моушн дизайнер (motion designer);https://tver.hh.ru/vacancy/48839887
+535;Методист в онлайн школу программирования;https://tver.hh.ru/vacancy/48856605
+536;VFX designer;https://tver.hh.ru/vacancy/47983218
+537;Unity developer (remotely);https://tver.hh.ru/vacancy/48756922
+538;Senior Android developer;https://tver.hh.ru/vacancy/47979432
+539;3D Моушен Дизайнер / 3D Аниматор (Unreal Engine);https://tver.hh.ru/vacancy/48806454
+540;Инженер-программист АСУ ТП;https://tver.hh.ru/vacancy/48426530
+541;Менеджер проектов игрового направления;https://tver.hh.ru/vacancy/47701813
+542;Level Designer Junior/Middle;https://tver.hh.ru/vacancy/48772752
+543;2Д художник / 2D artist (gamedev);https://tver.hh.ru/vacancy/48752042
+544;Environment 3D Artist (3D художник по окружению);https://tver.hh.ru/vacancy/48764460
+545;3D Cars/Props Artist (3D художник);https://tver.hh.ru/vacancy/48764954
+546;Motion Designer;https://tver.hh.ru/vacancy/48978282
+547;Junior IOS разработчик;https://tver.hh.ru/vacancy/48499627
+548;Middle Unity3D Developer;https://tver.hh.ru/vacancy/48722934
+549;Lead 3d artist (Персонажи);https://tver.hh.ru/vacancy/48568147
+550;Технический художник / Technical Artist (GameDev);https://tver.hh.ru/vacancy/47911451
+551;Level Designer / Дизайнер уровней (удаленная работа);https://tver.hh.ru/vacancy/48734113
+552;Гейм-дизайнер (Middle);https://tver.hh.ru/vacancy/48754856
+553;Middle Unity3D Network Developer;https://tver.hh.ru/vacancy/48723081
+554;User acquisition manager (MY.GAMES);https://tver.hh.ru/vacancy/48763253
+555;Арт-лид (VK);https://tver.hh.ru/vacancy/48763899
+556;Unity Developer (modules) (Минск, Гомель, Санкт-Петербург, Москва, Ульяновск, Казань);https://tver.hh.ru/vacancy/43264322
+557;Android Developer;https://tver.hh.ru/vacancy/46212334
+558;Контент-менеджер/ Технический гейм-дизайнер (Сфера GameDev);https://tver.hh.ru/vacancy/48727774
+559;Unity3D Developer;https://tver.hh.ru/vacancy/48702974
+560;Преподаватель IT-курсов для детей;https://tver.hh.ru/vacancy/48739426
+561;Методист по Data science;https://tver.hh.ru/vacancy/48236034
+562;Методист по Python;https://tver.hh.ru/vacancy/48236000
+563;Методист по Data science;https://tver.hh.ru/vacancy/48236033
+564;Арт-директор/ведущий художник (Gamedev);https://tver.hh.ru/vacancy/48670444
+565;Программист С# Developer (Unity 3D);https://tver.hh.ru/vacancy/48647235
+566;Арт-директор/ведущий художник (Gamedev);https://tver.hh.ru/vacancy/48670443
+567;Технический художник;https://tver.hh.ru/vacancy/46356820
+568;Team Lead Unity;https://tver.hh.ru/vacancy/48636880
+569;Преподаватель компьютерных курсов;https://tver.hh.ru/vacancy/48866554
+570;Unreal Engine Designer / Дизайнер Unreal Engine / CGI;https://tver.hh.ru/vacancy/48666735
+571;Recruiter / HR generalist;https://tver.hh.ru/vacancy/48704069
+572;QA Engineer (Rider);https://tver.hh.ru/vacancy/47795274
+573;3D Моушен Дизайнер / 3D Аниматор (Unreal Engine);https://tver.hh.ru/vacancy/48806383
+574;3D Моушен Дизайнер / 3D Аниматор;https://tver.hh.ru/vacancy/48666739
+575;Unity-программист на ПК-проект;https://tver.hh.ru/vacancy/48627277
+576;Lead/Senior Unity Developer;https://tver.hh.ru/vacancy/48600283
+577;Game Designer/Гейм Дизайнер (Баланс);https://tver.hh.ru/vacancy/48135658
+578;Unity Tech Artist;https://tver.hh.ru/vacancy/48598376
+579;Разработчик Android (Java/Kotlin) / Strong-Middle Android Developer;https://tver.hh.ru/vacancy/48651879
+580;QA Engineer (Rider);https://tver.hh.ru/vacancy/47795237
+581;Senior Unity Developer (PC/Console);https://tver.hh.ru/vacancy/48576874
+582;Преподаватель компьютерных курсов (учитель информатики / IT специалист);https://tver.hh.ru/vacancy/47644510
+583;Старший методист по Unity;https://tver.hh.ru/vacancy/48235571
+584;Motion Designer 2D/3D;https://tver.hh.ru/vacancy/48642562
+585;3D Artist (MY.GAMES);https://tver.hh.ru/vacancy/48613385
+586;Motion Designer 2D/3D;https://tver.hh.ru/vacancy/48642564
+587;2D аниматор;https://tver.hh.ru/vacancy/48639170
+588;Motion Designer 2D/3D;https://tver.hh.ru/vacancy/48642560
+589;Старший методист по Unity;https://tver.hh.ru/vacancy/48235570
+590;Разработчик Playable Ads (JavaScript);https://tver.hh.ru/vacancy/47142664
+591;Разработчик мобильных приложений;https://tver.hh.ru/vacancy/48657309
+592;Арт-лид (MY.GAMES);https://tver.hh.ru/vacancy/48654913
+593;Инженер эксплуатации инфраструктуры;https://tver.hh.ru/vacancy/48722778
+594;3D- моделлер;https://tver.hh.ru/vacancy/48651110
+595;3D Motion Designer (MY.GAMES);https://tver.hh.ru/vacancy/48613514
+596;Level Designer;https://tver.hh.ru/vacancy/47041761
+597;Level Designer;https://tver.hh.ru/vacancy/47041748
+598;Инженер-программист;https://tver.hh.ru/vacancy/48658249
+599;Преподаватель компьютерных курсов;https://tver.hh.ru/vacancy/48791125
+600;Водитель на своём автомобиле;https://tver.hh.ru/vacancy/48893819
+601;Senior character animator (Spine);https://tver.hh.ru/vacancy/47915694
+602;Technical artist;https://tver.hh.ru/vacancy/48574378
+603;Тьютор (Наставник) КиберШколы - программист;https://tver.hh.ru/vacancy/48587455
+604;Junior Android Developer (Java / Kotlin);https://tver.hh.ru/vacancy/48608844
+605;Senior User Acquisition Manager – Ad Networks (Mobile Games Publisher);https://tver.hh.ru/vacancy/48582758
+606;Unity Разработчик (Junior+);https://tver.hh.ru/vacancy/48499560
+607;2d Аниматор (Художник-аниматор);https://tver.hh.ru/vacancy/43523983
+608;Human Recources Manager (including Office Manager&#x27;s responsibilities);https://tver.hh.ru/vacancy/48872157
+609;Преподаватель компьютерных IT курсов;https://tver.hh.ru/vacancy/48877369
+610;Mobile Team lead;https://tver.hh.ru/vacancy/48620940
+611;Unity разработчика (удалённая работа);https://tver.hh.ru/vacancy/48467833
+612;Unity3D/C# разработчик (PC/консоли);https://tver.hh.ru/vacancy/46169861
+613;Стажер (Process automation &amp; simulation);https://tver.hh.ru/vacancy/48613412
+614;Гейм-дизайнер (MY.GAMES);https://tver.hh.ru/vacancy/48545583
+615;User Acquisition Manager / UA-менеджер;https://tver.hh.ru/vacancy/44197672
+616;Lead Artist / Art Manager (Casual);https://tver.hh.ru/vacancy/48535379
+617;Художник интерфейсов;https://tver.hh.ru/vacancy/45406210
+618;Программист Unity Junior C# Developer в Офис;https://tver.hh.ru/vacancy/48482171
+619;Senior QA Engineer (mobile shooter);https://tver.hh.ru/vacancy/48584151
+620;User Acquisition Manager / UA-менеджер (Networks, Mobile);https://tver.hh.ru/vacancy/45064721
+621;Senior Level Designer UE4 (Старший Дизайнер уровней UE4);https://tver.hh.ru/vacancy/42629859
+622;QA специалист (Game);https://tver.hh.ru/vacancy/48485620
+623;Инженер-программист ПЛК;https://tver.hh.ru/vacancy/46909165
+624;Lead Unity Developer;https://tver.hh.ru/vacancy/48444220
+625;VFX Artist/специалист по созданию спецэффектов;https://tver.hh.ru/vacancy/48483759
+626;Middle/Senior QA Specialist;https://tver.hh.ru/vacancy/48470482
+627;Инженер-программист АСУ ТП;https://tver.hh.ru/vacancy/46910783
+628;Middle/Senior QA Specialist;https://tver.hh.ru/vacancy/48470305
+629;Тьютор (преподаватель программирования для детей) в КиберШколе;https://tver.hh.ru/vacancy/48467086
+630;Преподаватель программирования;https://tver.hh.ru/vacancy/48500695
+631;Программист / Разработчик игр (Unity3D, .NET, C#);https://tver.hh.ru/vacancy/48446490
+632;QA-инженер (Pixonic);https://tver.hh.ru/vacancy/46750289
+633;Сharacter animator (Spine);https://tver.hh.ru/vacancy/47944883
+634;Senior User Acquisition manager;https://tver.hh.ru/vacancy/48491584
+635;User Acquisition Manager / Media buyer (gaming);https://tver.hh.ru/vacancy/48491070
+636;Senior 3D Artist;https://tver.hh.ru/vacancy/47027429
+637;2D аниматор/2D animator (Spine);https://tver.hh.ru/vacancy/46950322
+638;Senior 3D Artist (GameDev; мобильный мидкор-RPG ААА проект);https://tver.hh.ru/vacancy/46789059
+639;Motion Designer / Моушн Дизайнер / CG Generalist;https://tver.hh.ru/vacancy/48454540
+640;Motion Designer / Моушн Дизайнер / CG Generalist;https://tver.hh.ru/vacancy/48454537
+641;Game Designer (Live-Ops)/Analytic;https://tver.hh.ru/vacancy/47570972
+642;Motion Designer/Моушен-дизайнер (2D Animator/2D Аниматор);https://tver.hh.ru/vacancy/48715421
+643;Программист C#;https://tver.hh.ru/vacancy/32812022
+644;Преподаватель детского направления (компьютерные программы);https://tver.hh.ru/vacancy/48433240
+645;Руководитель проекта gamedev;https://tver.hh.ru/vacancy/48451948
+646;IT Recruiter/HR;https://tver.hh.ru/vacancy/48660159
+647;Разработчик;https://tver.hh.ru/vacancy/48425319
+648;Наставник кружка &quot;Разработка игр в Unity3D&quot;;https://tver.hh.ru/vacancy/48509335
+649;Motion Designer;https://tver.hh.ru/vacancy/48445486
+650;Автор курса GameDev (разработка компьютерных игр);https://tver.hh.ru/vacancy/48509283
+651;Unity3d developer, Junior;https://tver.hh.ru/vacancy/49381434
+652;Программист (Unreal Engine / C++);https://tver.hh.ru/vacancy/49367486
+653;Tech Artist (Animations,VFX);https://tver.hh.ru/vacancy/48772193
+654;Преподаватель английского языка;https://tver.hh.ru/vacancy/49376391
+655;Дизайнер внутриигровых роликов / Cutscene Designer;https://tver.hh.ru/vacancy/49230187
+656;QA Engineer;https://tver.hh.ru/vacancy/49217508
+657;3D-моделлер / аниматор (интерактивные проекты);https://tver.hh.ru/vacancy/49182666
+658;Преподаватель Frontend;https://tver.hh.ru/vacancy/49092929
+659;Настройщик визуала в Unity в гиперказуальных играх;https://tver.hh.ru/vacancy/49084983
+660;2D Animator;https://tver.hh.ru/vacancy/49037617

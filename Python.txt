@@ -1,0 +1,800 @@
+1;Software Engineer (Python Developer);https://tver.hh.ru/vacancy/49371533
+2;Python developer;https://tver.hh.ru/vacancy/49294706
+3;Python разработчик;https://tver.hh.ru/vacancy/47682360
+4;Junior Python developer (в Сочи);https://tver.hh.ru/vacancy/47110879
+5;Data Scientist (Python-developer);https://tver.hh.ru/vacancy/49387373
+6;Junior Data Engineer (Python);https://tver.hh.ru/vacancy/47914759
+7;Разработчик-Python (Django, DRF);https://tver.hh.ru/vacancy/43242292
+8;Python-разработчик (Django, DRF);https://tver.hh.ru/vacancy/39736489
+9;Программист Python;https://tver.hh.ru/vacancy/49381008
+10;Python Backend;https://tver.hh.ru/vacancy/49134101
+11;Программист Python;https://tver.hh.ru/vacancy/49310240
+12;Разработчик Python/Python developer;https://tver.hh.ru/vacancy/48640501
+13;Разработчик Solidity/Разработчик Rust/Разработчик Go/Разработчтик python(удаленно);https://tver.hh.ru/vacancy/48457284
+14;Senior Back-end Engineer (Python);https://tver.hh.ru/vacancy/48855094
+15;Junior Python разработчик;https://tver.hh.ru/vacancy/48969346
+16;Web-программист (Python);https://tver.hh.ru/vacancy/49335268
+17;Разработчик Python;https://tver.hh.ru/vacancy/47893332
+18;Разработчик Python;https://tver.hh.ru/vacancy/48887753
+19;Python-разработчик;https://tver.hh.ru/vacancy/48973744
+20;Python разработчик;https://tver.hh.ru/vacancy/48586207
+21;Разработчик Python / Программист Python (удаленно);https://tver.hh.ru/vacancy/48496694
+22;Python-разработчик;https://tver.hh.ru/vacancy/48973756
+23;Senior Python-разработчик;https://tver.hh.ru/vacancy/49121112
+24;Python developer;https://tver.hh.ru/vacancy/47322083
+25;Программист Python (Junior);https://tver.hh.ru/vacancy/48555710
+26;Middle Python developer (релокация в Сочи);https://tver.hh.ru/vacancy/45555166
+27;Python Middle Developer;https://tver.hh.ru/vacancy/49241176
+28;Разработчик Python (Spark);https://tver.hh.ru/vacancy/49211023
+29;Python-разработчик в R&amp;D отдел;https://tver.hh.ru/vacancy/49299311
+30;Senior Machine Learning Engineer;https://tver.hh.ru/vacancy/49383020
+31;Senior Backend Developer (Python);https://tver.hh.ru/vacancy/48449017
+32;Разработчик Python;https://tver.hh.ru/vacancy/48799475
+33;Бэкенд-разработчик Python/Middle Python/ Python Developer (Remote);https://tver.hh.ru/vacancy/48638057
+34;Программист Python;https://tver.hh.ru/vacancy/48835105
+35;Python разработчик (FastAPI / aiohttp / sanic);https://tver.hh.ru/vacancy/49126424
+36;Python Developer / Python разработчик;https://tver.hh.ru/vacancy/49362858
+37;Backend разработчик (Python);https://tver.hh.ru/vacancy/48960196
+38;Junior programmer (Python, C++);https://tver.hh.ru/vacancy/47902944
+39;Python Django разработчик, удаленно;https://tver.hh.ru/vacancy/48522328
+40;Python разработчик;https://tver.hh.ru/vacancy/49285686
+41;Senior разработчик (Python + Django);https://tver.hh.ru/vacancy/48496117
+42;Младший аналитик данных / Data analyst (Junior);https://tver.hh.ru/vacancy/49213959
+43;Senior Data Scientist;https://tver.hh.ru/vacancy/48378779
+44;Программист Python, системные утилиты;https://tver.hh.ru/vacancy/49186734
+45;Lead Backend Developer (Python);https://tver.hh.ru/vacancy/48962437
+46;Python Developer;https://tver.hh.ru/vacancy/44655490
+47;Python/Django Web Developer (Remote);https://tver.hh.ru/vacancy/49019838
+48;Python разработчик (Django);https://tver.hh.ru/vacancy/48756399
+49;Программист Python (веб и мобильные проекты);https://tver.hh.ru/vacancy/48415500
+50;Python программист-разработчик;https://tver.hh.ru/vacancy/48967178
+51;Senior Python Developer;https://tver.hh.ru/vacancy/48806805
+52;Backend-разработчик Junior (Python);https://tver.hh.ru/vacancy/48557096
+53;Python/Django разработчик (Middle/Senior);https://tver.hh.ru/vacancy/49226247
+54;Teamlead Backend (Python);https://tver.hh.ru/vacancy/49328437
+55;Middle+/Senior Python developer;https://tver.hh.ru/vacancy/48365060
+56;Разработчик (Python/PHP);https://tver.hh.ru/vacancy/45834844
+57;Python разработчик (middle +);https://tver.hh.ru/vacancy/49067357
+58;Python Engineer;https://tver.hh.ru/vacancy/47134361
+59;Middle Python developer;https://tver.hh.ru/vacancy/49356407
+60;Python разработчик (senior) (backend)/ Backend Team lead;https://tver.hh.ru/vacancy/43941903
+61;Django / Python разработчик;https://tver.hh.ru/vacancy/49263144
+62;Разработчик Python, VBA, Google Apps;https://tver.hh.ru/vacancy/49385413
+63;Python разработчик (Django);https://tver.hh.ru/vacancy/48490688
+64;Backend разработчик (Python Middle+/Senior);https://tver.hh.ru/vacancy/48793751
+65;Python developer;https://tver.hh.ru/vacancy/47915680
+66;Python Developer (remote);https://tver.hh.ru/vacancy/49044221
+67;Python Junior+/Middle Backend Developer;https://tver.hh.ru/vacancy/48928361
+68;Разработчик Python;https://tver.hh.ru/vacancy/47892369
+69;Python разработчик (Middle/Senior);https://tver.hh.ru/vacancy/49353468
+70;Python / Go Developer;https://tver.hh.ru/vacancy/49033980
+71;Программист (ROS, Python и С++);https://tver.hh.ru/vacancy/49325186
+72;Python (Django) Developer;https://tver.hh.ru/vacancy/49326387
+73;Data Analyst;https://tver.hh.ru/vacancy/48502218
+74;Программист Python;https://tver.hh.ru/vacancy/46252392
+75;Python developer;https://tver.hh.ru/vacancy/49120420
+76;Senior QA Automation Engineer (Python);https://tver.hh.ru/vacancy/43394109
+77;Python developer;https://tver.hh.ru/vacancy/49120397
+78;Python-разработчик в NeuroCore;https://tver.hh.ru/vacancy/49349445
+79;Бэкенд разработчик на Python для Telegram (Backend developer);https://tver.hh.ru/vacancy/48479287
+80;Разработчик Python в Яндекс.Q;https://tver.hh.ru/vacancy/48624241
+81;Back-end python программист;https://tver.hh.ru/vacancy/45987039
+82;Python developer;https://tver.hh.ru/vacancy/48573686
+83;Python разработчик (Middle/Senior);https://tver.hh.ru/vacancy/49000269
+84;Разработчик Python;https://tver.hh.ru/vacancy/48993749
+85;Python-разработчик в R&amp;D отдел;https://tver.hh.ru/vacancy/48504798
+86;Python (Django) программист Middle;https://tver.hh.ru/vacancy/49094371
+87;Программист Python (прикладная математика);https://tver.hh.ru/vacancy/48411370
+88;Python-разработчик (Витрина);https://tver.hh.ru/vacancy/47448086
+89;Data Engineer / разработчик Python, PHP, SQL;https://tver.hh.ru/vacancy/49368944
+90;Python Developer Backend (middle/senior);https://tver.hh.ru/vacancy/48892719
+91;Инженер-программист (Python).;https://tver.hh.ru/vacancy/48812469
+92;Python-разработчик в NeuroCore;https://tver.hh.ru/vacancy/49349443
+93;Python Developer;https://tver.hh.ru/vacancy/48643726
+94;Python Developer;https://tver.hh.ru/vacancy/48148816
+95;Программист Python3;https://tver.hh.ru/vacancy/48708812
+96;Machine Learning Engineer (Python);https://tver.hh.ru/vacancy/48801317
+97;Python-разработчик в NeuroCore;https://tver.hh.ru/vacancy/49349442
+98;Python developer (compuier vision backend);https://tver.hh.ru/vacancy/49342079
+99;Python Developer (Backend);https://tver.hh.ru/vacancy/48361239
+100;Python Lead Developer;https://tver.hh.ru/vacancy/48990045
+101;Backend Developer (Python / Django);https://tver.hh.ru/vacancy/49353417
+102;Python-разработчик (Middle) удаленно;https://tver.hh.ru/vacancy/49268616
+103;Python developer;https://tver.hh.ru/vacancy/49318525
+104;Python Developer;https://tver.hh.ru/vacancy/48356856
+105;Python Developer;https://tver.hh.ru/vacancy/49327900
+106;Full Stack Developer (Python);https://tver.hh.ru/vacancy/49371266
+107;Python Developer;https://tver.hh.ru/vacancy/48810000
+108;Middle C++ and Python Developer;https://tver.hh.ru/vacancy/47888294
+109;Senior Python Developer;https://tver.hh.ru/vacancy/49130051
+110;Data Engineer / разработчик Python, PHP, SQL;https://tver.hh.ru/vacancy/49368818
+111;Web-программист Python (Middle/Senior);https://tver.hh.ru/vacancy/47228261
+112;Разработчик (Python);https://tver.hh.ru/vacancy/40551245
+113;Разработчик Python;https://tver.hh.ru/vacancy/48745437
+114;Программист Python;https://tver.hh.ru/vacancy/48442668
+115;Ведущий Python-разработчик;https://tver.hh.ru/vacancy/48395103
+116;Программист Backend/Python (remote);https://tver.hh.ru/vacancy/48606619
+117;Python developer (Ds направление);https://tver.hh.ru/vacancy/45811421
+118;Junior Python developer;https://tver.hh.ru/vacancy/49353632
+119;Python developer;https://tver.hh.ru/vacancy/48556706
+120;Middle / Senior Python Developer;https://tver.hh.ru/vacancy/49371439
+121;Data Engineer / разработчик Python, PHP, SQL;https://tver.hh.ru/vacancy/49369141
+122;QA Automation Python;https://tver.hh.ru/vacancy/49112955
+123;Разработчик Python;https://tver.hh.ru/vacancy/48858694
+124;Python Developer;https://tver.hh.ru/vacancy/47895944
+125;Программист Python (удаленно);https://tver.hh.ru/vacancy/45864751
+126;Python Engineer;https://tver.hh.ru/vacancy/49372168
+127;Back-end разработчик (Python);https://tver.hh.ru/vacancy/43325863
+128;Python developer (Middle);https://tver.hh.ru/vacancy/49340020
+129;Python Developer;https://tver.hh.ru/vacancy/49149656
+130;Senior Backend Developer (Python);https://tver.hh.ru/vacancy/48439217
+131;Junior Data Analyst (with Python);https://tver.hh.ru/vacancy/48914335
+132;Python Developer;https://tver.hh.ru/vacancy/48715724
+133;Data scientist (ML разработчик);https://tver.hh.ru/vacancy/48982664
+134;Data Engineer / разработчик Python, PHP, SQL;https://tver.hh.ru/vacancy/49368943
+135;Python developer (remote);https://tver.hh.ru/vacancy/48108394
+136;Middle python developer;https://tver.hh.ru/vacancy/49155168
+137;Middle Python разработчик;https://tver.hh.ru/vacancy/49311810
+138;Разработчик Python;https://tver.hh.ru/vacancy/47731802
+139;ML-python разработчик;https://tver.hh.ru/vacancy/49330013
+140;Программист Python/Java;https://tver.hh.ru/vacancy/43244378
+141;Web-разработчик (React, Python);https://tver.hh.ru/vacancy/45795577
+142;Backend developer Python/Django;https://tver.hh.ru/vacancy/49368390
+143;Разработчик Python;https://tver.hh.ru/vacancy/49324019
+144;Python разработчик;https://tver.hh.ru/vacancy/49226749
+145;Data scientist;https://tver.hh.ru/vacancy/47752047
+146;Lead Python Engineer (FinTech);https://tver.hh.ru/vacancy/49371398
+147;Python Developer;https://tver.hh.ru/vacancy/49359029
+148;Python developer;https://tver.hh.ru/vacancy/44270356
+149;Golang/Python разработчик;https://tver.hh.ru/vacancy/48327008
+150;Инженер по автоматизации тестирования (Java / Python);https://tver.hh.ru/vacancy/49177059
+151;Программист Python;https://tver.hh.ru/vacancy/49267520
+152;Разработчик Python / Django;https://tver.hh.ru/vacancy/49295037
+153;Python-разработчик (Confer);https://tver.hh.ru/vacancy/47752511
+154;Программист Python;https://tver.hh.ru/vacancy/49300341
+155;Backend разработчик Python;https://tver.hh.ru/vacancy/49149963
+156;Python developer;https://tver.hh.ru/vacancy/48404078
+157;Python Developer;https://tver.hh.ru/vacancy/49333751
+158;QA Automation (Python/WEB);https://tver.hh.ru/vacancy/48481543
+159;Data Engineer / разработчик Python, PHP, SQL;https://tver.hh.ru/vacancy/49368947
+160;Python Developer;https://tver.hh.ru/vacancy/40612238
+161;Python Developer;https://tver.hh.ru/vacancy/48950437
+162;Python Developer;https://tver.hh.ru/vacancy/49362067
+163;Data Engineer / разработчик Python, PHP, SQL;https://tver.hh.ru/vacancy/49368942
+164;Программист Python;https://tver.hh.ru/vacancy/47746417
+165;Системный разработчик Python;https://tver.hh.ru/vacancy/38348123
+166;Data Engineer / разработчик Python, PHP, SQL;https://tver.hh.ru/vacancy/49368950
+167;Python developer;https://tver.hh.ru/vacancy/48934894
+168;Программист Python (Middle);https://tver.hh.ru/vacancy/46205242
+169;Python Developer;https://tver.hh.ru/vacancy/49351326
+170;Data Engineer (с опытом разработки Python, PHP, SQL);https://tver.hh.ru/vacancy/48224920
+171;Middle разработчик Python / Django (удалённо);https://tver.hh.ru/vacancy/48923479
+172;Разработчик Python;https://tver.hh.ru/vacancy/45160320
+173;Разработчик Python;https://tver.hh.ru/vacancy/49284819
+174;Разработчик Python;https://tver.hh.ru/vacancy/47937136
+175;Python developer;https://tver.hh.ru/vacancy/49312101
+176;Программист Python;https://tver.hh.ru/vacancy/47182741
+177;Python разработчик (SberData);https://tver.hh.ru/vacancy/48925036
+178;Senior Python Developer;https://tver.hh.ru/vacancy/43068985
+179;Младший AI/ML инженер;https://tver.hh.ru/vacancy/48677337
+180;Senior Data Engineer;https://tver.hh.ru/vacancy/49031421
+181;Python разработчик (Middle);https://tver.hh.ru/vacancy/47761104
+182;Python разработчик (Django);https://tver.hh.ru/vacancy/48756400
+183;Data Engineer / разработчик Python, PHP, SQL;https://tver.hh.ru/vacancy/49368952
+184;Backend Developer (Python);https://tver.hh.ru/vacancy/49297969
+185;Python разработчик (Middle+/Senior);https://tver.hh.ru/vacancy/45806688
+186;Python developer / Data engineer (Middle);https://tver.hh.ru/vacancy/49252631
+187;Data Scientist;https://tver.hh.ru/vacancy/48484869
+188;Web-разработчик (React, Python);https://tver.hh.ru/vacancy/45795350
+189;Python разработчик;https://tver.hh.ru/vacancy/46188764
+190;Backend developer Python/Django;https://tver.hh.ru/vacancy/49368376
+191;Python разработчик (удаленно);https://tver.hh.ru/vacancy/40278614
+192;Python Developer (Vitebsk);https://tver.hh.ru/vacancy/46928416
+193;Python разработчик;https://tver.hh.ru/vacancy/47757295
+194;Разработчик Python;https://tver.hh.ru/vacancy/49284457
+195;Python Developer (middle);https://tver.hh.ru/vacancy/49313842
+196;Python Developer;https://tver.hh.ru/vacancy/47822392
+197;Python Developer (Cryptocurrency);https://tver.hh.ru/vacancy/48843074
+198;Python Developer;https://tver.hh.ru/vacancy/49371608
+199;Python-разработчик;https://tver.hh.ru/vacancy/49316513
+200;Middle / Senior Python Developer for AlmaLinux [Remote];https://tver.hh.ru/vacancy/49145145
+201;Разработчик Python;https://tver.hh.ru/vacancy/49284807
+202;Разработчик Python;https://tver.hh.ru/vacancy/49284786
+203;Data Scientist;https://tver.hh.ru/vacancy/49074710
+204;Python Backend Developer (СберЗвук Бизнес);https://tver.hh.ru/vacancy/48495260
+205;Преподаватель по курсу “Python”/ &quot;Асинхронный чат-сервер&quot;/ Python developer;https://tver.hh.ru/vacancy/48213974
+206;Аналитик Python (senior);https://tver.hh.ru/vacancy/48877392
+207;Стажер-программист Python;https://tver.hh.ru/vacancy/49257931
+208;Программист Python;https://tver.hh.ru/vacancy/46908066
+209;Python Developer;https://tver.hh.ru/vacancy/49008074
+210;Преподаватель курса  “Python” (Python developer);https://tver.hh.ru/vacancy/48214691
+211;Разработчик python (Middle/Senior);https://tver.hh.ru/vacancy/48469486
+212;Программист (Python);https://tver.hh.ru/vacancy/46694196
+213;Python Middleware Developer;https://tver.hh.ru/vacancy/46390942
+214;Python-разработчик;https://tver.hh.ru/vacancy/48578143
+215;Python Developer;https://tver.hh.ru/vacancy/48255279
+216;Data / ML Engineer;https://tver.hh.ru/vacancy/49357227
+217;Senior Python developer;https://tver.hh.ru/vacancy/49328190
+218;Python developer (remote);https://tver.hh.ru/vacancy/47987028
+219;Инженер-программист (Python developer);https://tver.hh.ru/vacancy/47723848
+220;Python Developer (middle);https://tver.hh.ru/vacancy/49313841
+221;Программист (Python);https://tver.hh.ru/vacancy/46694197
+222;Fullstack Python Developer;https://tver.hh.ru/vacancy/49300494
+223;Python разработчик в SberDevices (направление B2B2C);https://tver.hh.ru/vacancy/41032029
+224;Python Developer;https://tver.hh.ru/vacancy/46646797
+225;Ведущий Fullstack программист Python/JavaScript (Ведущий инженер-программист);https://tver.hh.ru/vacancy/48813081
+226;Data Engineer / разработчик Python, PHP, SQL;https://tver.hh.ru/vacancy/49368941
+227;Python Developer;https://tver.hh.ru/vacancy/49294755
+228;Python Developer (Cryptocurrency);https://tver.hh.ru/vacancy/48843191
+229;Python-разработчик (Пульс);https://tver.hh.ru/vacancy/49258024
+230;Python-разработчик/Senior Python-разработчик;https://tver.hh.ru/vacancy/44790039
+231;Python Engineer (Tools, WoTBlitz);https://tver.hh.ru/vacancy/46387983
+232;Старший розробник Python (Senior Python Developer);https://tver.hh.ru/vacancy/48716431
+233;Python Developer;https://tver.hh.ru/vacancy/48255313
+234;Full-stack Python Developer;https://tver.hh.ru/vacancy/48889892
+235;Middle / Senior Python Engineer (NLP);https://tver.hh.ru/vacancy/49060753
+236;Программист Python (работа над телеграм ботом);https://tver.hh.ru/vacancy/49216968
+237;Python Developer в компанию-разработчик облачных систем (Люксембург, удаленно);https://tver.hh.ru/vacancy/49238047
+238;Data Engineer (с опытом разработки Python, PHP, SQL);https://tver.hh.ru/vacancy/48224961
+239;Разработчик Python (Senior);https://tver.hh.ru/vacancy/44811190
+240;Middle Python developer;https://tver.hh.ru/vacancy/48487627
+241;Python Developer;https://tver.hh.ru/vacancy/49291301
+242;Разработчик ИСУ (SQL/Python);https://tver.hh.ru/vacancy/49241223
+243;Python developer;https://tver.hh.ru/vacancy/47820200
+244;Middle Python/Flask developer;https://tver.hh.ru/vacancy/48641636
+245;Python Developer (middle);https://tver.hh.ru/vacancy/49313840
+246;Middle/Senior Python Developer;https://tver.hh.ru/vacancy/47951809
+247;Python-разработчик (middle);https://tver.hh.ru/vacancy/49151946
+248;Python Middle Developer;https://tver.hh.ru/vacancy/44401077
+249;Python/Django разработчик;https://tver.hh.ru/vacancy/49184490
+250;Python developer (Middle / Senior);https://tver.hh.ru/vacancy/44828907
+251;Junior/Middle Python developer;https://tver.hh.ru/vacancy/49164157
+252;Python Developer;https://tver.hh.ru/vacancy/48255278
+253;Python Developer;https://tver.hh.ru/vacancy/48255310
+254;Senior Python-Разработчик (удаленно);https://tver.hh.ru/vacancy/47484756
+255;Senior Python Developer;https://tver.hh.ru/vacancy/49197942
+256;Разработчик Python (Middle);https://tver.hh.ru/vacancy/43727963
+257;Senior python developer;https://tver.hh.ru/vacancy/46913485
+258;Data Engineer (Python);https://tver.hh.ru/vacancy/48601979
+259;Аналитик Python (senior);https://tver.hh.ru/vacancy/48877390
+260;Middle / Senior Python/Go developer;https://tver.hh.ru/vacancy/30548119
+261;Backend Python Developer;https://tver.hh.ru/vacancy/48981483
+262;Разработчик NLP / NLU - Python;https://tver.hh.ru/vacancy/48373500
+263;Python Developer/ Разработчик Python;https://tver.hh.ru/vacancy/47394431
+264;Программист Python (Junior);https://tver.hh.ru/vacancy/49150105
+265;Разработчик Python;https://tver.hh.ru/vacancy/47668037
+266;Программист Python;https://tver.hh.ru/vacancy/49248328
+267;Python developer в международную IT-компанию;https://tver.hh.ru/vacancy/49247961
+268;Python developer;https://tver.hh.ru/vacancy/49190640
+269;Senior Python Developer at Via;https://tver.hh.ru/vacancy/49148352
+270;Python Developer (Wind Team);https://tver.hh.ru/vacancy/46356627
+271;Python программист / Middle Python Developer;https://tver.hh.ru/vacancy/48183808
+272;Python developer;https://tver.hh.ru/vacancy/49010529
+273;Программист / Разработчик Python/Django Middle;https://tver.hh.ru/vacancy/48991589
+274;Senior Data Scientist NER;https://tver.hh.ru/vacancy/48514903
+275;Senior Python Developer;https://tver.hh.ru/vacancy/45734627
+276;Python developer в научный отдел;https://tver.hh.ru/vacancy/49192149
+277;Middle/Senior Python-разработчик в команду Добычи данных;https://tver.hh.ru/vacancy/47616458
+278;Senior Python (Django) Developer;https://tver.hh.ru/vacancy/49135497
+279;Python developer;https://tver.hh.ru/vacancy/48769177
+280;Software Engineer (Python);https://tver.hh.ru/vacancy/49155047
+281;Инженер-программист Python;https://tver.hh.ru/vacancy/45398261
+282;Разработчик Python (искусственный интеллект);https://tver.hh.ru/vacancy/48851241
+283;Программист Python;https://tver.hh.ru/vacancy/49286073
+284;Full-stack Python Developer;https://tver.hh.ru/vacancy/48889889
+285;Fullstack Python Developer;https://tver.hh.ru/vacancy/49300493
+286;Senior Python Developer;https://tver.hh.ru/vacancy/48715216
+287;Senior Software Engineer (Python);https://tver.hh.ru/vacancy/49154847
+288;Python Developer (Cryptocurrency);https://tver.hh.ru/vacancy/48843124
+289;Python-developer;https://tver.hh.ru/vacancy/49229545
+290;Fullstack JS/Python разработчик;https://tver.hh.ru/vacancy/49211839
+291;Full-stack Python;https://tver.hh.ru/vacancy/46754461
+292;Python Middle Developer;https://tver.hh.ru/vacancy/44401075
+293;Senior Python developer - STASIS;https://tver.hh.ru/vacancy/49186547
+294;Python разработчик;https://tver.hh.ru/vacancy/49104282
+295;Python разработчик (удаленно);https://tver.hh.ru/vacancy/49128678
+296;Python разработчик;https://tver.hh.ru/vacancy/49115130
+297;QA engineer (Data + Python);https://tver.hh.ru/vacancy/45783106
+298;Python developer/Разработчик Python;https://tver.hh.ru/vacancy/49008737
+299;Программист Python;https://tver.hh.ru/vacancy/47717493
+300;Python developer;https://tver.hh.ru/vacancy/49226378
+301;Разработчик Python (Django), JavaScript (React);https://tver.hh.ru/vacancy/49115713
+302;Разработчик Python (Middle, Senior);https://tver.hh.ru/vacancy/49146694
+303;Python developer;https://tver.hh.ru/vacancy/49191710
+304;Middle Python developer;https://tver.hh.ru/vacancy/49097993
+305;QA тестировщик (автоматизатор на Python);https://tver.hh.ru/vacancy/49144664
+306;Python Developer (Data Science);https://tver.hh.ru/vacancy/49232800
+307;Middle / Senior Python Software Engineer;https://tver.hh.ru/vacancy/49319371
+308;Python программист;https://tver.hh.ru/vacancy/48620064
+309;Data Engineer (Python);https://tver.hh.ru/vacancy/49115659
+310;Senior python developer/Boost team;https://tver.hh.ru/vacancy/46897959
+311;Python-developer;https://tver.hh.ru/vacancy/49229544
+312;Архитектор Python;https://tver.hh.ru/vacancy/49220425
+313;Разработчик Python;https://tver.hh.ru/vacancy/49110579
+314;Python разработчик;https://tver.hh.ru/vacancy/49193083
+315;Python Developer;https://tver.hh.ru/vacancy/49170949
+316;Веб-программист Python middle;https://tver.hh.ru/vacancy/49183035
+317;Python Developer (Middle);https://tver.hh.ru/vacancy/49184487
+318;Python разработчик;https://tver.hh.ru/vacancy/49115211
+319;Разработчик Python;https://tver.hh.ru/vacancy/48835613
+320;Инженер-программист Python;https://tver.hh.ru/vacancy/45398266
+321;Data Scientist (Machine Learning Engineer);https://tver.hh.ru/vacancy/48890498
+322;Python Backend Developer (Middle/Remote);https://tver.hh.ru/vacancy/48574170
+323;Intern Python developer;https://tver.hh.ru/vacancy/48914889
+324;Разработчик Python (backend);https://tver.hh.ru/vacancy/48213042
+325;Python-разработчик;https://tver.hh.ru/vacancy/49112887
+326;Middle Data Scientist (ML);https://tver.hh.ru/vacancy/47401987
+327;Backend разработчик С++/Python (Navi);https://tver.hh.ru/vacancy/49095339
+328;Backend developer (Python);https://tver.hh.ru/vacancy/48325398
+329;Разработчик Python;https://tver.hh.ru/vacancy/47382594
+330;Python-разработчик (middle/remote);https://tver.hh.ru/vacancy/49027040
+331;Backend-программист (Python)/Инженер-программист;https://tver.hh.ru/vacancy/48828279
+332;Python developer;https://tver.hh.ru/vacancy/49042182
+333;Python Developer;https://tver.hh.ru/vacancy/45607105
+334;Python-разработчик;https://tver.hh.ru/vacancy/46767801
+335;Python Developer / Data Engineer (DS Team);https://tver.hh.ru/vacancy/49114258
+336;Senior Python developer;https://tver.hh.ru/vacancy/49129594
+337;QA тестировщик (автоматизатор на Python);https://tver.hh.ru/vacancy/49144665
+338;Аналитик данных Python;https://tver.hh.ru/vacancy/49065137
+339;Python разработчик;https://tver.hh.ru/vacancy/49128117
+340;Senior Python-разработчик;https://tver.hh.ru/vacancy/42202145
+341;Программист Python;https://tver.hh.ru/vacancy/49070648
+342;Программист Python;https://tver.hh.ru/vacancy/49011518
+343;Разработчик Python Junior Middleware Developer;https://tver.hh.ru/vacancy/48724899
+344;Python Developer;https://tver.hh.ru/vacancy/49119441
+345;Программист Python/Fullstack;https://tver.hh.ru/vacancy/49109895
+346;Python разработчик (Middle/Senior);https://tver.hh.ru/vacancy/49049943
+347;Инженер-программист Python;https://tver.hh.ru/vacancy/49051211
+348;Data science;https://tver.hh.ru/vacancy/49000376
+349;Инженер-программист Python;https://tver.hh.ru/vacancy/49051212
+350;Программист Python;https://tver.hh.ru/vacancy/43156201
+351;Инженер-программист Python;https://tver.hh.ru/vacancy/49051208
+352;Python Developer;https://tver.hh.ru/vacancy/49012032
+353;Backend разработчик Python;https://tver.hh.ru/vacancy/44070869
+354;Python-разработчик Middle;https://tver.hh.ru/vacancy/49043787
+355;Python разработчик (junior middle);https://tver.hh.ru/vacancy/48497067
+356;Python разработчик в SberDevices (Речевая аналитика);https://tver.hh.ru/vacancy/49076234
+357;Программист Python;https://tver.hh.ru/vacancy/48957722
+358;Python developer;https://tver.hh.ru/vacancy/48331830
+359;Инженер-программист Python;https://tver.hh.ru/vacancy/45398262
+360;Python Developer;https://tver.hh.ru/vacancy/48042439
+361;Python разработчик;https://tver.hh.ru/vacancy/49020278
+362;Программист Python / Python developer;https://tver.hh.ru/vacancy/48239095
+363;Младший разработчик Python;https://tver.hh.ru/vacancy/48957249
+364;Senior Python developer;https://tver.hh.ru/vacancy/44167873
+365;Python Backend-разработчик;https://tver.hh.ru/vacancy/48991322
+366;Разработчик Python;https://tver.hh.ru/vacancy/48991249
+367;Senior Python Developer;https://tver.hh.ru/vacancy/48979178
+368;Разработчик Python (Middle);https://tver.hh.ru/vacancy/48978644
+369;Python Developer;https://tver.hh.ru/vacancy/43822796
+370;Senior Python Developer;https://tver.hh.ru/vacancy/48979175
+371;Senior Python developer;https://tver.hh.ru/vacancy/43455147
+372;Python developer;https://tver.hh.ru/vacancy/42686828
+373;Разработчик NLP / NLU - Python;https://tver.hh.ru/vacancy/48371517
+374;Python Developer;https://tver.hh.ru/vacancy/46280996
+375;Python Developer Middle/Senior (Удаленно);https://tver.hh.ru/vacancy/41727993
+376;Программист Python;https://tver.hh.ru/vacancy/47189102
+377;Apache Airflow Developer;https://tver.hh.ru/vacancy/49191412
+378;Senior Python Developer;https://tver.hh.ru/vacancy/48979176
+379;Программист Backend-разработчик (Python);https://tver.hh.ru/vacancy/47431983
+380;Python-разработчик;https://tver.hh.ru/vacancy/48073385
+381;Python разработчик;https://tver.hh.ru/vacancy/48919899
+382;Python разработчик (Middle);https://tver.hh.ru/vacancy/48920271
+383;Разработчик Python;https://tver.hh.ru/vacancy/43157032
+384;Ведущий Fullstack программист Python/JavaScript (Ведущий инженер-программист);https://tver.hh.ru/vacancy/48717297
+385;Инженер-программист Python;https://tver.hh.ru/vacancy/45398267
+386;Разработчик Python;https://tver.hh.ru/vacancy/48925652
+387;Python-разработчик (MY.GAMES);https://tver.hh.ru/vacancy/48761295
+388;C++/Python Developer;https://tver.hh.ru/vacancy/49080908
+389;Разработчик Python (Совкомбанк Технологии), Томск;https://tver.hh.ru/vacancy/47679596
+390;Python Developer (SPACE);https://tver.hh.ru/vacancy/48643384
+391;Fullstack Python разработчик;https://tver.hh.ru/vacancy/49037555
+392;Python Developer (startup);https://tver.hh.ru/vacancy/48150889
+393;Data engineer (python developer);https://tver.hh.ru/vacancy/48938859
+394;Python программист (MaxPatrol 10);https://tver.hh.ru/vacancy/49186955
+395;Python developer (Cybersecurity);https://tver.hh.ru/vacancy/46660207
+396;Python Backend Developer / Бекенд Разработчик Питон;https://tver.hh.ru/vacancy/48615484
+397;Разработчик Python (Совкомбанк Технологии);https://tver.hh.ru/vacancy/47405380
+398;Преподаватель курса “Python разработчик”;https://tver.hh.ru/vacancy/49049676
+399;Программист Python (Django);https://tver.hh.ru/vacancy/48529241
+400;Python Developer;https://tver.hh.ru/vacancy/49011800
+401;Senior Python-разработчик;https://tver.hh.ru/vacancy/46343928
+402;Разработчик Python;https://tver.hh.ru/vacancy/48925830
+403;Python разработчик;https://tver.hh.ru/vacancy/41179197
+404;Python Developer.;https://tver.hh.ru/vacancy/49034452
+405;Младший разработчик Python;https://tver.hh.ru/vacancy/48957250
+406;Python Developer/ Разработчик Python;https://tver.hh.ru/vacancy/49227587
+407;Backend developer (Python);https://tver.hh.ru/vacancy/48325449
+408;Python Developer;https://tver.hh.ru/vacancy/48931875
+409;Python-разработчик (Ассистент B2B Салют);https://tver.hh.ru/vacancy/48934214
+410;Senior Python Developer;https://tver.hh.ru/vacancy/45788406
+411;Senior Python Developer;https://tver.hh.ru/vacancy/43968966
+412;Data Scientist (Речевая аналитика);https://tver.hh.ru/vacancy/49000137
+413;Python-разработчик;https://tver.hh.ru/vacancy/48494067
+414;Python Developer;https://tver.hh.ru/vacancy/49259354
+415;Python developer (Kaspersky Anti Targeted Attack);https://tver.hh.ru/vacancy/42522896
+416;Middle Python Developer;https://tver.hh.ru/vacancy/48217660
+417;Программист Python (Middle);https://tver.hh.ru/vacancy/48924071
+418;Web-программист / Программист Python;https://tver.hh.ru/vacancy/49010776
+419;Python Developer (middle-senior) удаленно;https://tver.hh.ru/vacancy/49011592
+420;Разработчик Python;https://tver.hh.ru/vacancy/48876138
+421;Python разработчик;https://tver.hh.ru/vacancy/48919598
+422;Python программист (MaxPatrol 10);https://tver.hh.ru/vacancy/49187036
+423;Младший разработчик Python;https://tver.hh.ru/vacancy/48957251
+424;Программист Python;https://tver.hh.ru/vacancy/49128009
+425;QA Automation Engineer (Python);https://tver.hh.ru/vacancy/45931870
+426;Python Developer;https://tver.hh.ru/vacancy/45092652
+427;Lead Python Developer;https://tver.hh.ru/vacancy/49162392
+428;Разработчик Python;https://tver.hh.ru/vacancy/48493904
+429;Python разработчик;https://tver.hh.ru/vacancy/48883588
+430;Python-разработчик в Процессы бэк-офиса;https://tver.hh.ru/vacancy/45984454
+431;Python developer/Python разработчик;https://tver.hh.ru/vacancy/48856664
+432;ML Engineer / Python разработчик;https://tver.hh.ru/vacancy/47638757
+433;Python разработчик;https://tver.hh.ru/vacancy/48440861
+434;Программист Python;https://tver.hh.ru/vacancy/48770018
+435;Middle Python developer;https://tver.hh.ru/vacancy/49109797
+436;Senior Python Developer;https://tver.hh.ru/vacancy/47220827
+437;Программист Python;https://tver.hh.ru/vacancy/48792206
+438;Python Developer;https://tver.hh.ru/vacancy/49110596
+439;Python developer Банк 131;https://tver.hh.ru/vacancy/48271874
+440;Ведущий программист Python;https://tver.hh.ru/vacancy/48799803
+441;Fullstack Python Developer;https://tver.hh.ru/vacancy/47889783
+442;Python разработчик;https://tver.hh.ru/vacancy/42393954
+443;Senior Python developer;https://tver.hh.ru/vacancy/48320306
+444;Python разработчик;https://tver.hh.ru/vacancy/49037748
+445;Стажер-разработчик Python / Менти;https://tver.hh.ru/vacancy/47955214
+446;Python разработчик (дистанционно);https://tver.hh.ru/vacancy/48868481
+447;Senior python developer | Sync team;https://tver.hh.ru/vacancy/46789639
+448;Middle Python-разработчик;https://tver.hh.ru/vacancy/48307116
+449;Ведущий Python Разработчик;https://tver.hh.ru/vacancy/48944532
+450;Ведущий разработчик Python;https://tver.hh.ru/vacancy/46956868
+451;Python-разработчик в Лавку;https://tver.hh.ru/vacancy/48206113
+452;Senior Python разработчик;https://tver.hh.ru/vacancy/48993679
+453;Python-разработчик;https://tver.hh.ru/vacancy/48995101
+454;Python / Django Developer;https://tver.hh.ru/vacancy/49003291
+455;Python/Django разработчик;https://tver.hh.ru/vacancy/43975457
+456;Middle/Senior Python Developer;https://tver.hh.ru/vacancy/49082075
+457;Senior Data Scientist;https://tver.hh.ru/vacancy/49000296
+458;Senior Python developer;https://tver.hh.ru/vacancy/48802127
+459;Python Developer;https://tver.hh.ru/vacancy/48956944
+460;Senior Python Developer;https://tver.hh.ru/vacancy/48777027
+461;Python Developer;https://tver.hh.ru/vacancy/39892371
+462;Python разработчик(Middle);https://tver.hh.ru/vacancy/48841730
+463;Python developer (Middle);https://tver.hh.ru/vacancy/48013780
+464;Программист Python;https://tver.hh.ru/vacancy/48784272
+465;Senior Python Developer;https://tver.hh.ru/vacancy/48777026
+466;Python-разработчик;https://tver.hh.ru/vacancy/48716243
+467;Python разработчик;https://tver.hh.ru/vacancy/48744745
+468;Middle Backend — Python, Django dasturchi;https://tver.hh.ru/vacancy/48752048
+469;Наставник курса “Профессия Разработчик на Python”;https://tver.hh.ru/vacancy/48300487
+470;Программист - Python Senior;https://tver.hh.ru/vacancy/47686232
+471;Инженер-программист/ Python Developer;https://tver.hh.ru/vacancy/47571125
+472;Middle/Senior Python Developer;https://tver.hh.ru/vacancy/49082076
+473;Программист - Python Middle;https://tver.hh.ru/vacancy/47685752
+474;Программист Python + Go;https://tver.hh.ru/vacancy/48698559
+475;Python-разработчик (Добро);https://tver.hh.ru/vacancy/48013964
+476;Python-разработчик;https://tver.hh.ru/vacancy/48643554
+477;Python-разработчик;https://tver.hh.ru/vacancy/47861083
+478;Python Developer;https://tver.hh.ru/vacancy/48795233
+479;Python Developer;https://tver.hh.ru/vacancy/45867089
+480;Python разработчик;https://tver.hh.ru/vacancy/48697765
+481;Программист Python;https://tver.hh.ru/vacancy/47664569
+482;Инженер/разработчик (Python);https://tver.hh.ru/vacancy/47974158
+483;Python разработчик;https://tver.hh.ru/vacancy/48697913
+484;Python разработчик;https://tver.hh.ru/vacancy/48600364
+485;Python developer;https://tver.hh.ru/vacancy/48796300
+486;Senior python developer | Feedback team;https://tver.hh.ru/vacancy/46789109
+487;Разработчик Python;https://tver.hh.ru/vacancy/48755755
+488;Python разработчик;https://tver.hh.ru/vacancy/48697982
+489;Fullstack Python Developer;https://tver.hh.ru/vacancy/47889600
+490;QA Automation (Python);https://tver.hh.ru/vacancy/48718580
+491;Python Developer;https://tver.hh.ru/vacancy/48824707
+492;Python Developer (for Big Data training);https://tver.hh.ru/vacancy/48913589
+493;Python Developer/DevOps;https://tver.hh.ru/vacancy/48479697
+494;Программист Python;https://tver.hh.ru/vacancy/48773587
+495;Python разработчик (middle);https://tver.hh.ru/vacancy/48824009
+496;Backend Engineer (Python, Django);https://tver.hh.ru/vacancy/48680324
+497;Программист Python;https://tver.hh.ru/vacancy/48549902
+498;Python разработчик;https://tver.hh.ru/vacancy/48697891
+499;Python Developer;https://tver.hh.ru/vacancy/48714774
+500;Python developer (защита от DDoS-атак);https://tver.hh.ru/vacancy/46410749
+501;Middle Python разработчик;https://tver.hh.ru/vacancy/48648368
+502;Разработчик backend Python Кловер групп;https://tver.hh.ru/vacancy/48944799
+503;Python Developer;https://tver.hh.ru/vacancy/48805523
+504;Python Developer;https://tver.hh.ru/vacancy/48771242
+505;Middle+/Senior Python разработчик (удаленно);https://tver.hh.ru/vacancy/47673234
+506;Backend-разработчик (Python);https://tver.hh.ru/vacancy/49069748
+507;Python developer;https://tver.hh.ru/vacancy/48743669
+508;Python разработчик;https://tver.hh.ru/vacancy/47305089
+509;Python developer;https://tver.hh.ru/vacancy/48796303
+510;Аналитик-разработчик Python;https://tver.hh.ru/vacancy/47912355
+511;Python developer (Django);https://tver.hh.ru/vacancy/46201697
+512;Python разработчик;https://tver.hh.ru/vacancy/48570014
+513;Senior Python Developer;https://tver.hh.ru/vacancy/47642609
+514;Python Developer (Grodno);https://tver.hh.ru/vacancy/48680253
+515;Разработчик Python / Django;https://tver.hh.ru/vacancy/48220676
+516;Системный программист C/C++ - Python;https://tver.hh.ru/vacancy/48478918
+517;Data Engineer;https://tver.hh.ru/vacancy/47976231
+518;Back-end разработчик (Python);https://tver.hh.ru/vacancy/45095987
+519;Python разработчик (дистанционно);https://tver.hh.ru/vacancy/48596468
+520;Python developer;https://tver.hh.ru/vacancy/48703997
+521;Back-end Python/Django разработчик;https://tver.hh.ru/vacancy/48459674
+522;Программист Python;https://tver.hh.ru/vacancy/48474679
+523;Программист Python/Django в веб-студию;https://tver.hh.ru/vacancy/48643847
+524;Python Developer;https://tver.hh.ru/vacancy/48513991
+525;Ведущий Python-developer;https://tver.hh.ru/vacancy/46690447
+526;Программист Python;https://tver.hh.ru/vacancy/48892084
+527;Python разработчик (DevOps, DWH);https://tver.hh.ru/vacancy/48503492
+528;Разработчик Python (Uma.Tech);https://tver.hh.ru/vacancy/45319598
+529;Python Django разработчик;https://tver.hh.ru/vacancy/47202163
+530;Senior Python Developer;https://tver.hh.ru/vacancy/48881114
+531;Python Developer;https://tver.hh.ru/vacancy/48641567
+532;Python разработчик (Рамблер/рекомендации);https://tver.hh.ru/vacancy/48586117
+533;Программист Python (Django);https://tver.hh.ru/vacancy/48814613
+534;Разработчик Python;https://tver.hh.ru/vacancy/46912402
+535;Python Backend Developer;https://tver.hh.ru/vacancy/48486731
+536;Backend-разработчик (Python);https://tver.hh.ru/vacancy/49069750
+537;Middle Backend Developer (Python, FastAPI);https://tver.hh.ru/vacancy/48754125
+538;Разработчик Python/Django;https://tver.hh.ru/vacancy/48429405
+539;Программист-разработчик Python;https://tver.hh.ru/vacancy/47914529
+540;Python разработчик;https://tver.hh.ru/vacancy/46574600
+541;Python разработчик;https://tver.hh.ru/vacancy/48622387
+542;Python Developer (Brest);https://tver.hh.ru/vacancy/46928531
+543;Бэкенд-разработчик (Python) / Middle Python / Python Developer (Remote);https://tver.hh.ru/vacancy/48421449
+544;Бэкенд-разработчик Python/Middle Python/ Python Developer (Remote);https://tver.hh.ru/vacancy/48421483
+545;Python Developer;https://tver.hh.ru/vacancy/48700241
+546;Senior Python developer;https://tver.hh.ru/vacancy/48893032
+547;Специалист Computer Vision (Senior Data Scientist);https://tver.hh.ru/vacancy/48577770
+548;Python Middle Developer;https://tver.hh.ru/vacancy/42512306
+549;Middle Backend Python + Django разработчик;https://tver.hh.ru/vacancy/48651118
+550;Python developer;https://tver.hh.ru/vacancy/48488896
+551;Python разработчик (Платформа DMP);https://tver.hh.ru/vacancy/48586135
+552;Ведущий python программист;https://tver.hh.ru/vacancy/48497444
+553;Python Developer;https://tver.hh.ru/vacancy/46331257
+554;Middle/Senior/Lead Python Software Engineer;https://tver.hh.ru/vacancy/49250028
+555;Разработчик Python;https://tver.hh.ru/vacancy/47608726
+556;WEB-разработчик (Python);https://tver.hh.ru/vacancy/43981177
+557;Python developer/Python разработчик;https://tver.hh.ru/vacancy/48480295
+558;Python developer;https://tver.hh.ru/vacancy/47757929
+559;Senior Python developer;https://tver.hh.ru/vacancy/48893034
+560;Python developer;https://tver.hh.ru/vacancy/48240439
+561;Senior Python Developer;https://tver.hh.ru/vacancy/47794705
+562;Data Engineer;https://tver.hh.ru/vacancy/49053577
+563;Программист Python Senior;https://tver.hh.ru/vacancy/47519276
+564;Программист Python\Django;https://tver.hh.ru/vacancy/49004009
+565;Backend Engineer (Python, Django);https://tver.hh.ru/vacancy/48680316
+566;Специалист Computer Vision (Senior Data Scientist);https://tver.hh.ru/vacancy/48577773
+567;Python Backend Developer;https://tver.hh.ru/vacancy/48486498
+568;Программист Python (Junior/Middle);https://tver.hh.ru/vacancy/48485942
+569;Python Developer;https://tver.hh.ru/vacancy/46788103
+570;Web разработчик (Python/JS);https://tver.hh.ru/vacancy/48450128
+571;Программист Python;https://tver.hh.ru/vacancy/46600510
+572;Специалист Computer Vision (Senior Data Scientist);https://tver.hh.ru/vacancy/48577774
+573;Python developer;https://tver.hh.ru/vacancy/46052473
+574;Python developer;https://tver.hh.ru/vacancy/48703990
+575;Middle Python Developer, Data Streaming Solutions;https://tver.hh.ru/vacancy/47999562
+576;Разработчик Python (backend);https://tver.hh.ru/vacancy/45157245
+577;Разработчик Python;https://tver.hh.ru/vacancy/48611222
+578;Python Developer;https://tver.hh.ru/vacancy/48430593
+579;Python Developer;https://tver.hh.ru/vacancy/48700242
+580;Backend python (Django) разработчик;https://tver.hh.ru/vacancy/45296019
+581;Специалист Computer Vision (Senior Data Scientist);https://tver.hh.ru/vacancy/48577777
+582;Python Back-end Developer;https://tver.hh.ru/vacancy/48434798
+583;Python Developer;https://tver.hh.ru/vacancy/48488414
+584;Программист Python;https://tver.hh.ru/vacancy/48497337
+585;Специалист Computer Vision (Senior Data Scientist);https://tver.hh.ru/vacancy/48577771
+586;Python Developer;https://tver.hh.ru/vacancy/48541237
+587;Python Developer;https://tver.hh.ru/vacancy/48439825
+588;Python Backend Developer;https://tver.hh.ru/vacancy/48486658
+589;Python developer;https://tver.hh.ru/vacancy/48497664
+590;Программист Python;https://tver.hh.ru/vacancy/48536820
+591;Senior Python Developer;https://tver.hh.ru/vacancy/47948599
+592;Python developer (middle);https://tver.hh.ru/vacancy/38792841
+593;Специалист Computer Vision (Senior Data Scientist);https://tver.hh.ru/vacancy/48577772
+594;Python Developer;https://tver.hh.ru/vacancy/46788414
+595;Senior python developer;https://tver.hh.ru/vacancy/48769229
+596;Senior Automation QA (Python);https://tver.hh.ru/vacancy/46953810
+597;Python Developer;https://tver.hh.ru/vacancy/42387542
+598;Full-stack Python Developer;https://tver.hh.ru/vacancy/48884392
+599;Разработчик Python;https://tver.hh.ru/vacancy/48611221
+600;Senior Python Developer;https://tver.hh.ru/vacancy/48759673
+601;Старший методист по Python;https://tver.hh.ru/vacancy/48245771
+602;Программист-разработчик Python;https://tver.hh.ru/vacancy/48462454
+603;Программист Python;https://tver.hh.ru/vacancy/48536817
+604;Python Developer (Flask);https://tver.hh.ru/vacancy/47739387
+605;Python Developer;https://tver.hh.ru/vacancy/48487094
+606;Middle Python Developer (Gomel);https://tver.hh.ru/vacancy/47772009
+607;Python Developer;https://tver.hh.ru/vacancy/48487131
+608;Python Developer;https://tver.hh.ru/vacancy/48487151
+609;Python Developer;https://tver.hh.ru/vacancy/48435662
+610;Разработчик Python;https://tver.hh.ru/vacancy/48502842
+611;Разработчик Python;https://tver.hh.ru/vacancy/48611220
+612;Python Developer;https://tver.hh.ru/vacancy/48486935
+613;Senior Python программист;https://tver.hh.ru/vacancy/41607887
+614;Python Developer (Flask);https://tver.hh.ru/vacancy/47739389
+615;Python Developer;https://tver.hh.ru/vacancy/48487033
+616;Python Developer;https://tver.hh.ru/vacancy/48476399
+617;Python Developer (Flask);https://tver.hh.ru/vacancy/47739388
+618;Программист-разработчик Python;https://tver.hh.ru/vacancy/48445427
+619;Python Developer (SPACE);https://tver.hh.ru/vacancy/48643385
+620;Senior Python Developer;https://tver.hh.ru/vacancy/48654058
+621;Специалист по аналитике данных;https://tver.hh.ru/vacancy/49383943
+622;DevOps Engineer (Platform Team);https://tver.hh.ru/vacancy/47864382
+623;RPA Developer;https://tver.hh.ru/vacancy/48518981
+624;Преподаватель курса &quot;Программирование на Python&quot;;https://tver.hh.ru/vacancy/49104778
+625;Senior QA инженер;https://tver.hh.ru/vacancy/47759634
+626;Senior QA Engineer (MS-1);https://tver.hh.ru/vacancy/47061599
+627;Senior Fullstack Developer;https://tver.hh.ru/vacancy/49371589
+628;DevOps инженер;https://tver.hh.ru/vacancy/47644069
+629;Специалист по тестированию в команду Clickme;https://tver.hh.ru/vacancy/48336664
+630;QA в команды инфрастуктуры frontend и безопасности;https://tver.hh.ru/vacancy/47892571
+631;Специалист по информационной безопасности (SOC);https://tver.hh.ru/vacancy/45433122
+632;Специалист по тестированию;https://tver.hh.ru/vacancy/40585500
+633;Junior Automation Engineer / Инженер по автоматизации ПО;https://tver.hh.ru/vacancy/48529956
+634;Web-мастер;https://tver.hh.ru/vacancy/48211339
+635;Manual QA Engineer ‎(World of Tanks Blitz)‎;https://tver.hh.ru/vacancy/46127413
+636;Product analyst (Middle);https://tver.hh.ru/vacancy/49345206
+637;Information Security Engineer (SOC);https://tver.hh.ru/vacancy/45433121
+638;Cпециалист по поддержке и системному администрированию (Middle);https://tver.hh.ru/vacancy/49382281
+639;Руководитель группы автоматизации и эксплуатации онлайн сервисов;https://tver.hh.ru/vacancy/49219119
+640;Middle/Senior SRE Engineer;https://tver.hh.ru/vacancy/45704500
+641;Программист-стажер JavaScript / Python;https://tver.hh.ru/vacancy/49245912
+642;Python программист разработчик на дистанционную работу;https://tver.hh.ru/vacancy/48627153
+643;Разработчик Junior Python;https://tver.hh.ru/vacancy/49186628
+644;Python разработчик;https://tver.hh.ru/vacancy/47862885
+645;Бэкенд разрабочтик на Python;https://tver.hh.ru/vacancy/48817750
+646;Python / Django developer (Разработчик Python);https://tver.hh.ru/vacancy/48712684
+647;Junior Backend-разработчик (Python);https://tver.hh.ru/vacancy/45872271
+648;Junior разработчик Python;https://tver.hh.ru/vacancy/49052657
+649;Junior Python разработчик;https://tver.hh.ru/vacancy/49017151
+650;Программист Python (стажер);https://tver.hh.ru/vacancy/46526734
+651;Data scientist(стажер);https://tver.hh.ru/vacancy/48454842
+652;Стажер-разработчик бэкенда (Python);https://tver.hh.ru/vacancy/48502238
+653;Junior Python Developer;https://tver.hh.ru/vacancy/48500526
+654;Разработчик Python;https://tver.hh.ru/vacancy/47679779
+655;Стажер разработчик Python;https://tver.hh.ru/vacancy/48584488
+656;Python junior developer;https://tver.hh.ru/vacancy/48587239
+657;Backend - разработчик Node.js/GO/Python/JS/C# (Senior);https://tver.hh.ru/vacancy/49071601
+658;Machine Learning and Computer vision developer;https://tver.hh.ru/vacancy/49105372
+659;Разработчик Python;https://tver.hh.ru/vacancy/37415007
+660;Разработчик Python;https://tver.hh.ru/vacancy/37394225
+661;Data Engineer;https://tver.hh.ru/vacancy/48646458
+662;Senior/Lead Python Engineer (ML, Infrastructure);https://tver.hh.ru/vacancy/48894153
+663;Data Analyst;https://tver.hh.ru/vacancy/46913040
+664;Senior Data Scientist;https://tver.hh.ru/vacancy/48814962
+665;Data scientist;https://tver.hh.ru/vacancy/47126604
+666;Специалист по автоматизации / Разработчик Python;https://tver.hh.ru/vacancy/46443510
+667;Senior Backend developer Python;https://tver.hh.ru/vacancy/48052212
+668;Middle Data Scientist;https://tver.hh.ru/vacancy/49195533
+669;Middle/Senior Разработчик Python;https://tver.hh.ru/vacancy/47733827
+670;Middle/Senior Python Developer for AlmaLinux [Remote];https://tver.hh.ru/vacancy/49145135
+671;Senior/Lead ML Engineer (ML/DS инженер);https://tver.hh.ru/vacancy/46344625
+672;Инженер по автоматизации тестирования (QA) / Python разработчик;https://tver.hh.ru/vacancy/48146743
+673;Senior Python Backend Engineer;https://tver.hh.ru/vacancy/48846062
+674;Lead Python Software Engineer;https://tver.hh.ru/vacancy/49384438
+675;Backend developer Python/Django;https://tver.hh.ru/vacancy/49360762
+676;QA Automation Engineer (Python);https://tver.hh.ru/vacancy/48610224
+677;Backend developer Python/Django;https://tver.hh.ru/vacancy/49368355
+678;Middle Machine Learning/Data Science инженер;https://tver.hh.ru/vacancy/49001467
+679;Разработчик back-end (Mid/Senior, удаленно);https://tver.hh.ru/vacancy/49132129
+680;Middle Machine Learning/Data Science инженер;https://tver.hh.ru/vacancy/49000778
+681;Middle / Senior Automation QA Engineer (Python);https://tver.hh.ru/vacancy/49038410
+682;Quantitative Developer;https://tver.hh.ru/vacancy/48670944
+683;Программист;https://tver.hh.ru/vacancy/48855609
+684;QA Automation Engineer (Python) in WoT Blitz;https://tver.hh.ru/vacancy/48239206
+685;Backend Developer (Python, GO);https://tver.hh.ru/vacancy/48871206
+686;Аналитик данных (Data scientist);https://tver.hh.ru/vacancy/48429430
+687;Код-ревьюер на курс &quot;Мидл-python разработчик&quot;;https://tver.hh.ru/vacancy/46954834
+688;Python Developer (World of Tanks);https://tver.hh.ru/vacancy/47146423
+689;Data Engineer;https://tver.hh.ru/vacancy/49076838
+690;Data / ML Engineer;https://tver.hh.ru/vacancy/49357830
+691;Data analyst / Аналитик Данных;https://tver.hh.ru/vacancy/48257128
+692;Middle/Senior Python Developer for AlmaLinux [Remote];https://tver.hh.ru/vacancy/49145078
+693;Data Analyst;https://tver.hh.ru/vacancy/47736534
+694;Middle Data Analyst (Remote);https://tver.hh.ru/vacancy/48137290
+695;Python разработчик (голосовой помощник Салют);https://tver.hh.ru/vacancy/49362501
+696;Data Scientist / Математик-программист;https://tver.hh.ru/vacancy/48463547
+697;Data engineer;https://tver.hh.ru/vacancy/49186295
+698;Machine Learning Developer;https://tver.hh.ru/vacancy/49131728
+699;Machine Learning Researcher (Senior): CV,GAN;https://tver.hh.ru/vacancy/48944272
+700;Разработчик на Solidity (middle);https://tver.hh.ru/vacancy/49345886
+701;Data Engineer;https://tver.hh.ru/vacancy/49043335
+702;Аналитик данных;https://tver.hh.ru/vacancy/48691109
+703;Data Analyst;https://tver.hh.ru/vacancy/49230102
+704;Senior Software Engineer (Python);https://tver.hh.ru/vacancy/45217475
+705;Middle Python developer (Москва);https://tver.hh.ru/vacancy/42608114
+706;Преподаватель онлайн Python / Java для школьников и студентов;https://tver.hh.ru/vacancy/48689662
+707;Full-stack developer with JS/Python;https://tver.hh.ru/vacancy/48223108
+708;Data Scientist / Аналитик Data Science;https://tver.hh.ru/vacancy/48709110
+709;Middle/Senior Backend (Python3, Django);https://tver.hh.ru/vacancy/48940234
+710;Senior QA Automation Engineer (relocation to Canada);https://tver.hh.ru/vacancy/49387537
+711;Middle/Senior Data Analyst (Limassol);https://tver.hh.ru/vacancy/48944392
+712;Преподаватель онлайн Python / Java для школьников и студентов;https://tver.hh.ru/vacancy/48689663
+713;Data Analyst;https://tver.hh.ru/vacancy/49371457
+714;Инженер по автоматизации тестирования (Python);https://tver.hh.ru/vacancy/44427877
+715;ML инженер;https://tver.hh.ru/vacancy/49342464
+716;Middle Python Developer for CloudLinux OS [Remote];https://tver.hh.ru/vacancy/46052524
+717;Full-stack Разработчик (Python, Javascript);https://tver.hh.ru/vacancy/49006877
+718;Аналитик данных (Middle/Senior Data Scientist);https://tver.hh.ru/vacancy/49029665
+719;Инженер по автоматизации тестирования (Python);https://tver.hh.ru/vacancy/44427805
+720;Инженер/Data Engineer;https://tver.hh.ru/vacancy/48968551
+721;DevOps Engineer;https://tver.hh.ru/vacancy/49003817
+722;Инженер по автоматизации тестирования Python (MaxPatrol);https://tver.hh.ru/vacancy/47970112
+723;BI аналитик;https://tver.hh.ru/vacancy/48803504
+724;Младший инженер-разработчик (Junior Python Developer);https://tver.hh.ru/vacancy/49229994
+725;Full Stack Developer (Java+Python), Communication Services;https://tver.hh.ru/vacancy/49320167
+726;Quantitative Researcher;https://tver.hh.ru/vacancy/48381001
+727;Data-scientist;https://tver.hh.ru/vacancy/46839025
+728;Python Team Lead;https://tver.hh.ru/vacancy/49010894
+729;Big Data Engineer (Yellow Team);https://tver.hh.ru/vacancy/49218761
+730;Full Stack Developer (Java+Python), Communication Services;https://tver.hh.ru/vacancy/49320164
+731;Senior Software Engineer;https://tver.hh.ru/vacancy/48635471
+732;Senior, Lead Machine Learning/Data Science инженер;https://tver.hh.ru/vacancy/49001393
+733;Middle Back-End Developer;https://tver.hh.ru/vacancy/47477834
+734;DataOps/Data Engineer;https://tver.hh.ru/vacancy/47759533
+735;Junior HFT Quant Trader / Data Scientist Orion Systematic AG;https://tver.hh.ru/vacancy/48972650
+736;DevOps Engineer;https://tver.hh.ru/vacancy/49052245
+737;AI/ML Engineer;https://tver.hh.ru/vacancy/47754721
+738;Back-end Developer (Кипр);https://tver.hh.ru/vacancy/47296956
+739;Аналитик данных (Data science);https://tver.hh.ru/vacancy/49052543
+740;Математик-аналитик;https://tver.hh.ru/vacancy/48555794
+741;Middle Data Analyst (Remote);https://tver.hh.ru/vacancy/48137289
+742;QA-engineer;https://tver.hh.ru/vacancy/48926992
+743;Инженер автоматизации интеграционного тестирования / QA automation (Python);https://tver.hh.ru/vacancy/48708596
+744;Программист C/C++, Python;https://tver.hh.ru/vacancy/49359157
+745;Quantitative Researcher;https://tver.hh.ru/vacancy/45972952
+746;Team Lead Python;https://tver.hh.ru/vacancy/46598477
+747;Аналитик данных;https://tver.hh.ru/vacancy/47648938
+748;Аналитик данных;https://tver.hh.ru/vacancy/47977064
+749;Senior Data scientist (Computer Vision);https://tver.hh.ru/vacancy/47357797
+750;Back-end Developer;https://tver.hh.ru/vacancy/48177424
+751;Аналитик данных / Data scientist;https://tver.hh.ru/vacancy/46639991
+752;Software Engineer (C#, Java, or Python) + automation;https://tver.hh.ru/vacancy/48883148
+753;Backend/DevOps Engineer;https://tver.hh.ru/vacancy/48483016
+754;Преподаватель онлайн Python / Java для школьников и студентов;https://tver.hh.ru/vacancy/48689659
+755;Data Scientist - AI Engineer;https://tver.hh.ru/vacancy/48469421
+756;Инженер по автоматизации тестирования (Python);https://tver.hh.ru/vacancy/44427755
+757;Data Analyst;https://tver.hh.ru/vacancy/49161011
+758;Преподаватель онлайн Python / Java для школьников и студентов;https://tver.hh.ru/vacancy/48689661
+759;BI Engineer (Tableau);https://tver.hh.ru/vacancy/47882723
+760;Data Analyst;https://tver.hh.ru/vacancy/48619539
+761;DevOps-инженер Middle (remote);https://tver.hh.ru/vacancy/48416964
+762;DevOps Engineer;https://tver.hh.ru/vacancy/49363961
+763;Data engineer;https://tver.hh.ru/vacancy/49374044
+764;Senior QA Automation Engineer (relocation to Canada);https://tver.hh.ru/vacancy/49387536
+765;Аналитик данных;https://tver.hh.ru/vacancy/48487677
+766;QA инженер / Инженер по тестированию ПО;https://tver.hh.ru/vacancy/48216833
+767;Разработчик информационных систем на Oracle/python;https://tver.hh.ru/vacancy/48168121
+768;Data инженер;https://tver.hh.ru/vacancy/47230079
+769;Ведущий AI/ML инженер;https://tver.hh.ru/vacancy/48677314
+770;Data Analyst;https://tver.hh.ru/vacancy/47739290
+771;С/С++ Linux developer (remote);https://tver.hh.ru/vacancy/49300883
+772;DevOps Engineer (Middle, Senior / Lead);https://tver.hh.ru/vacancy/48963436
+773;Преподаватель онлайн Python / Java для школьников и студентов;https://tver.hh.ru/vacancy/48689658
+774;Senior/Middle Test Automation Engineer/QA (Python);https://tver.hh.ru/vacancy/48981579
+775;Data engineer/Data administrator [Remote];https://tver.hh.ru/vacancy/46669233
+776;Middle DevOps Engineer;https://tver.hh.ru/vacancy/48614619
+777;Big Data Engineer;https://tver.hh.ru/vacancy/49330836
+778;Разработчик C/C++;https://tver.hh.ru/vacancy/47888320
+779;Data aналитик;https://tver.hh.ru/vacancy/48831160
+780;DevOps engineer (Remote) only residents of Ukraine;https://tver.hh.ru/vacancy/49319162
+781;Backend-разработчик / инженер-программист (джуниор/миддл);https://tver.hh.ru/vacancy/49217698
+782;Middle Data Engineer (GameDev);https://tver.hh.ru/vacancy/48060683
+783;Team Lead Python;https://tver.hh.ru/vacancy/48708387
+784;Middle/Senior C++ Developer;https://tver.hh.ru/vacancy/43394134
+785;Lead DevOps Engineer;https://tver.hh.ru/vacancy/48979258
+786;Junior DevOps Engineer (Intern/DevOps Lab);https://tver.hh.ru/vacancy/49383053
+787;Разработчик C++ (senior);https://tver.hh.ru/vacancy/49359540
+788;Стажёр-разработчик автоматизированных тестов;https://tver.hh.ru/vacancy/48957760
+789;Data engineer/Data administrator [Remote];https://tver.hh.ru/vacancy/49068516
+790;Data Engineer;https://tver.hh.ru/vacancy/48501172
+791;Инженер - DevOps;https://tver.hh.ru/vacancy/48441124
+792;Middle/Senior C++ Developer;https://tver.hh.ru/vacancy/42397159
+793;Data Analyst in Yellow Stone;https://tver.hh.ru/vacancy/49383347
+794;Senior Research Engineer;https://tver.hh.ru/vacancy/46571658
+795;DevOps Engineer (GCP);https://tver.hh.ru/vacancy/49334204
+796;Data Engineer (DWH, Senior);https://tver.hh.ru/vacancy/48652402
+797;Data Engineer (Cloud);https://tver.hh.ru/vacancy/49373911
+798;Data Scientist;https://tver.hh.ru/vacancy/48500730
+799;DevOps Lead;https://tver.hh.ru/vacancy/49019876
+800;Аналитик данных;https://tver.hh.ru/vacancy/48277000
