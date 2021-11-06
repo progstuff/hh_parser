@@ -1,0 +1,2436 @@
+Git;1234
+Python;951
+JavaScript;693
+SQL;679
+Java;647
+Android;588
+Английский язык;554
+ООП;522
+PostgreSQL;515
+Linux;446
+C#;441
+Kotlin;435
+Unity;391
+Английский — B1 — Средний;381
+MySQL;365
+PHP;343
+HTML;339
+Android SDK;335
+CSS;316
+Django Framework;293
+Английский — B2 — Средне-продвинутый;261
+Docker;220
+iOS;185
+HTML5;177
+Node.js;166
+Adobe Photoshop;152
+REST;144
+Работа в команде;137
+Redis;136
+React;133
+Atlassian Jira;129
+TypeScript;126
+C++;124
+.NET Framework;122
+MS SQL;111
+MongoDB;111
+Flask;111
+CSS3;110
+Spring Framework;107
+jQuery;96
+RabbitMQ;93
+Английский — A1 — Начальный;91
+ASP.NET;86
+MVC;84
+Swift;72
+MVVM;68
+Удаленная работа;68
+Laravel;68
+Английский — C1 — Продвинутый;67
+Golang;65
+Scrum;64
+XML;62
+API;60
+CI/CD;59
+RxJava;58
+Креативность;58
+Autodesk Maya;58
+REST API;57
+Базы данных;57
+Symfony;57
+Agile Project Management;56
+MVP;52
+Flutter;51
+Управление проектами;51
+Nginx;51
+AngularJS;51
+Vue.js;51
+kotlin;50
+AWS;50
+Gamedev;49
+Kubernetes;49
+SOLID;48
+C/C++;48
+Kafka;48
+1С-Битрикс;48
+Обучение и развитие;48
+Bash;47
+Redux;46
+Blender 3D;46
+Adobe After Effect;46
+Тестирование;45
+Django;44
+Анимация;44
+MS PowerPoint;43
+Angular;43
+Java SE;42
+Unit Testing;42
+Figma;42
+Разработка компьютерных Игр;42
+Грамотная речь;42
+HTTP;41
+Hibernate ORM;41
+Adobe Illustrator;41
+Celery;41
+Objective-C;40
+Design Patterns;40
+Английский — A2 — Элементарный;39
+Bootstrap;39
+React.js;38
+Ajax;38
+Go;37
+NoSQL;37
+SQLite;36
+React Native;36
+3D Моделирование;36
+Unity 3D;35
+Room;33
+Аналитическое мышление;33
+Machine Learning;33
+Разработка ПО;32
+Dart;32
+Game Programming;32
+Retrofit;31
+JSON API;31
+JS;31
+Работа с базами данных;31
+Ruby;31
+Atlassian Confluence;30
+Грамотность;30
+Entity Framework;30
+Веб-программирование;30
+JSON;29
+Apache Maven;29
+Функциональное тестирование;28
+Yii;28
+Jenkins;27
+Vue;27
+Vkontakte Api;26
+MS SQL Server;26
+С#;26
+GraphQL;26
+SCALA;26
+MS Visual Studio;26
+Clean Architecture;25
+Realm;25
+Ведение переговоров;25
+QA;25
+Ruby On Rails;25
+Facebook API;24
+PHP5;24
+Backend;24
+3ds Max;23
+Unity3D;23
+Ориентация на результат;23
+Деловая коммуникация;23
+Blockchain;22
+UI;22
+ZBrush;22
+.NET Core;22
+CMS Wordpress;22
+Оптимизация кода;21
+Работа в условиях многозадачности;21
+3D-графика;21
+English;21
+ReactJS;21
+Business English;21
+Работа с большим объемом информации;21
+Jira;20
+Firebase;20
+retrofit;20
+glide;20
+firebase;20
+WPF;20
+Обучение;20
+Пользователь ПК;20
+Математическая статистика;20
+СУБД;19
+Elasticsearch;19
+Ansible;19
+Webpack;19
+Gitlab;19
+Data Mining;19
+Teamleading;18
+Мобильные приложения;18
+Умение работать в условиях многозадачности;18
+Управление персоналом;18
+Less;18
+Анализ данных;18
+Организаторские навыки;18
+Data Analysis;18
+ML;18
+3D Max;18
+Cinema 4D;18
+Agile;17
+TCP/IP;17
+ETL;17
+ORACLE;17
+Управление командой;17
+Sass;17
+PHP7;17
+Azure;17
+Game Design;17
+Google Analytics;17
+Spine;17
+Преподаватель;17
+Мобильность;16
+JUnit;16
+SOAP;16
+Mac Os;16
+asyncio;16
+CRM;16
+Pandas;16
+Computer Vision;16
+SVN;15
+Управление временем;15
+Visual Studio C#;15
+React/Redux;15
+Pytest;15
+Java EE;15
+Unix;15
+Big Data;15
+MS Excel;15
+Java Script;14
+TDD;14
+Разработка технических заданий;14
+Test case;14
+MS Access;14
+Time management;14
+Typescript;14
+1С программирование;14
+VueJS;14
+Spark;14
+DevOps;14
+Бизнес-анализ;14
+Internet Marketing;14
+3D;14
+Unreal Engine 4;14
+UE4;14
+Team management;13
+VIPER;13
+Selenium;13
+Rust;13
+BPMN;13
+Подбор персонала;13
+SQLAlchemy;13
+Проведение презентаций;13
+Математический анализ;13
+aiohttp;13
+tensorflow;13
+Rx;12
+WebSocket;12
+Web;12
+Русский — C1 — Продвинутый;12
+Business Development;12
+ASP.NET Core;12
+Тестирование пользовательского интерфейса;12
+Алгоритмы и структуры данных;12
+Yii2;12
+Lua;12
+docker;12
+ClickHouse;12
+Microservices;12
+pandas;12
+PyTorch;12
+Deep Learning;12
+Машинное обучение;12
+OpenCV;12
+data science;12
+FastAPI;12
+Unreal Engine;12
+Gradle;11
+Паттерны проектирования;11
+UX;11
+ORM;11
+Xcode;11
+Transact-SQL;11
+Qt;11
+Умение принимать решения;11
+VR;11
+Проведение тестирований;11
+Project management;11
+STL;11
+.Net Core;11
+OOP;11
+ES6;11
+Маркетинговый анализ;11
+Data Science;11
+Алгоритмы;11
+Substance Painter;11
+Animation;11
+Xamarin;10
+HTML/CSS;10
+Кроссбраузерная верстка;10
+PHPUnit;10
+Деловая переписка;10
+Навыки презентации;10
+Разработка нового продукта;10
+Английский язык (Intermediate);10
+Oracle Pl/SQL;10
+Hadoop;10
+Terraform;10
+Leadership Skills;10
+Тайм-менеджмент;10
+laravel;10
+NLP;10
+Power BI;10
+Autodesk 3ds Max;10
+scratch;10
+Dagger;9
+Dagger 2;9
+Android Studio;9
+Java Core;9
+Teamplayer;9
+Redmine;9
+Postman;9
+Творческое мышление;9
+Поиск и привлечение клиентов;9
+Web Application Development;9
+Системное мышление;9
+Frontend;9
+vue.js;9
+Analytical skills;9
+Cистемы управления базами данных;9
+LINQ;9
+Многозадачность;9
+Маркетинговые исследования;9
+Интернет-реклама;9
+MS Visio;9
+DRF;9
+roblox;9
+Опытный пользователь ПК;8
+RxSwift;8
+Rest API;8
+UML;8
+Русский — C2 — В совершенстве;8
+Magento;8
+Research And Development;8
+Знание английского языка;8
+Spring Boot;8
+SPA;8
+Деловое общение;8
+Информационные технологии;8
+Веб-дизайн;8
+Google Docs;8
+Поиск информации в интернет;8
+Яндекс.Метрика;8
+Аналитические исследования;8
+Facebook Ads;8
+Программирование;8
+Подготовка презентаций;8
+Дистанционное обучение;8
+Математическое моделирование;8
+SOA;8
+MATLAB;8
+numpy;8
+Numpy;8
+pytorch;8
+Blender;8
+Hive;7
+CoreData;7
+OpenGL;7
+Dagger2;7
+TeamCity;7
+Intellij IDEA;7
+swift;7
+Постановка задач разработчикам;7
+Teambuilding;7
+Стратегическое мышление;7
+Системный анализ;7
+Web-дизайн;7
+Адаптация персонала;7
+Внутренние коммуникации;7
+JDBC;7
+golang;7
+UIKit;7
+Разговорный английский;7
+Windows Forms;7
+Google API;7
+Hibernate;7
+Responsibility;7
+NodeJS;7
+.NET;7
+AutoCAD;7
+Haskell;7
+Рефакторинг кода;7
+Аналитика;7
+Digital Marketing;7
+Tensorflow;7
+Hidhload;7
+gun;7
+deep learning;7
+Групповое обучение;7
+Коммуникабельность;7
+Coroutines;6
+WebRTC;6
+Koin;6
+Confluence;6
+Адаптивная верстка;6
+Hilt;6
+iOS SDK;6
+GitLab;6
+Ответственность и пунктуальность;6
+Microsoft Visual Studio;6
+Аналитический склад ума;6
+Kanban;6
+Trello;6
+WCF;6
+Development;6
+Коммуникабельность, стрессоустойчивость;6
+Soft skills;6
+Корпоративная культура;6
+HR;6
+gRPC;6
+Развитие продаж;6
+CI;6
+Организация мероприятий;6
+Асинхронное программирование;6
+Highload;6
+Solidity;6
+1С: Предприятие 8;6
+ASP.NET MVC;6
+GitHub;6
+SaaS;6
+Apache Kafka;6
+Умение работать в коллективе;6
+Databases;6
+Spring;6
+Negotiation skills;6
+Zend Framework;6
+Mathematical Statistics;6
+SEO;6
+Next.js;6
+Presentation skills;6
+Анализ конкурентной среды;6
+Основы программирования;6
+Gitlab CI;6
+Apache HTTP Server;6
+Копирайтинг;6
+SEO оптимизация;6
+B2B Продажи;6
+Активные продажи;6
+MS Project;6
+Обучение персонала;6
+Публичные выступления;6
+Разработка концепции;6
+Vuex;6
+FastApi;6
+PyCharm;6
+Информационная безопасность;6
+Django Rest Framework;6
+Парсинг;6
+Unreal;6
+Мобильные игры;6
+UNREAL ENGINE;6
+.NET 5;6
+Руководство коллективом;5
+DI;5
+MobX;5
+Redux-Saga;5
+Eclipse;5
+Research;5
+Cordova;5
+Clickhouse;5
+Криптовалюта;5
+Charles;5
+TestRail;5
+Driving Licence B;5
+Сетевые технологии;5
+Анализ рынка;5
+Gulp;5
+Дизайн интерфейсов;5
+Планирование карьеры;5
+Эффективное принятие решений;5
+RESTful API;5
+Блокчейн;5
+Start-up project;5
+Nuxt.js;5
+Apache Tomcat;5
+JPA;5
+Websockets;5
+ADO.NET;5
+ERP;5
+vue;5
+Express.js;5
+ElasticSearch;5
+Bitbucket;5
+Swagger;5
+Composer;5
+Ведение документации;5
+Excel;5
+Проектная документация;5
+amoCRM;5
+Microsoft Access;5
+Joomla CMS;5
+Желание учиться и развиваться;5
+Perl;5
+frontend;5
+react;5
+SASS/SCSS;5
+Asyncio;5
+B2B маркетинг;5
+Администрирование серверов Linux;5
+Разработка инструкций;5
+Умение работать в команде;5
+Рекрутмент;5
+Яндекс.Директ;5
+Автоматизация;5
+Математический склад ума;5
+Статистический анализ;5
+Нейронные сети;5
+1C: Бухгалтерия;5
+Мобильный маркетинг;5
+UI/UX;5
+База данных: Oracle;5
+Houdini;5
+opencv;5
+keras;5
+Tableau;5
+Преподавание;5
+Монетизация;5
+Игровые метрики;5
+typescript;5
+Grasp;5
+Networking;4
+RxAndroid;4
+Material Design;4
+Alamofire;4
+Foundation;4
+Kotlin Coroutines;4
+Aerospike;4
+Zabbix;4
+Регресcионное тестирование;4
+Zephyr;4
+Asana;4
+soft skills;4
+Behat;4
+Selenium IDE;4
+Ручное тестирование;4
+Ubuntu;4
+Дизайн;4
+Опыт работы в команде;4
+WebSockets;4
+MS Visual C++;4
+Recruitment;4
+kubernetes;4
+Postgres;4
+ES6+;4
+Ethereum;4
+Bitrix24;4
+Vue.JS;4
+Borland Delphi;4
+Groovy;4
+SQL Server;4
+GCP;4
+Спортивные мероприятия;4
+Grafana;4
+SSH;4
+Fluent English;4
+Mongoose;4
+Mobx;4
+Jetbrains Phpstorm;4
+react.js;4
+удаленная работа;4
+Проектирование;4
+Высшее образование;4
+Мотивация персонала;4
+Autodesk Revit;4
+Разработка проектной документации;4
+Навыки продаж;4
+phpMyAdmin;4
+Pascal;4
+Администрирование;4
+Разработка CMS;4
+Навыки межличностного общения;4
+SWOT анализ;4
+Product Management;4
+Ответственность;4
+1С: Зарплата и управление персоналом;4
+Видеомонтаж;4
+Управление интернет-проектами;4
+Продвижение бренда;4
+Продвинутый пользователь ПК;4
+Клиентоориентированность;4
+Контекстная реклама;4
+Google AdWords;4
+Erlang;4
+Google Ads;4
+CPA;4
+Airflow;4
+Английский — C2 — В совершенстве;4
+Деловая этика;4
+Прототипирование;4
+Грамотная письменная речь;4
+Facebook;4
+Нагрузочное тестирование;4
+Трейдинг;4
+Организация учебного процесса;4
+gamedev;4
+Adobe Premier Pro;4
+F2P;4
+VFX;4
+Tilda;4
+Adobe Flash;4
+Графический дизайн;4
+NextJs;4
+Умение слушать;4
+RxJS;4
+микросервисы;4
+TypeSript;4
+Адекватность;3
+Мобильная разработка;3
+Google Maps Api;3
+Разработка мобильных приложений;3
+Clean;3
+Gson;3
+coroutines;3
+Управление разработкой;3
+разработка мобильных приложений;3
+мобильные приложения;3
+мобильная разработка;3
+StateFlow;3
+Jetpack Compose;3
+SAP;3
+MVI;3
+Statistics;3
+IoT;3
+react native;3
+QML;3
+GameDev;3
+Разработка мобильных игр;3
+Restful api;3
+Высокая ответственность;3
+Debian;3
+flutter;3
+Organization Skills;3
+AR;3
+Внутренний контроль;3
+Quality Control;3
+Лидерство;3
+Проектирование пользовательских интерфейсов;3
+Казахский — C1 — Продвинутый;3
+Умение анализировать;3
+Корпоративная этика;3
+Mercurial;3
+Multithread Programming;3
+Launching new products;3
+Поиск персонала в открытых источниках;3
+Vue.js&amp;Vuex;3
+HighLoad;3
+устройства самообслуживания;3
+ATM;3
+Оперативный поиск информации в сети Интернет;3
+Rabbit MQ;3
+go;3
+JVM;3
+Jest;3
+back-end;3
+Delphi;3
+ITIL;3
+figma;3
+Nats;3
+Socket.io;3
+RSpec;3
+React.JS;3
+Управление отношениями с клиентами;3
+Документооборот;3
+С;3
+SCSS;3
+.net core;3
+PowerShell;3
+Умение организовать работу;3
+Анализ бизнес показателей;3
+Телефонные переговоры;3
+Drupal;3
+Wordpress;3
+Telegram;3
+С++;3
+E-Commerce;3
+WebGL;3
+БД;3
+Верстка;3
+MS Visual Basic;3
+Аналитические способности;3
+ReactNative;3
+DWH;3
+SMM;3
+Социальные сети;3
+Математика;3
+Ext JS;3
+Nuxt;3
+Business Analysis;3
+Marketing Analysis;3
+Внешняя оптимизация сайта;3
+Google Ads Keyword Planner,;3
+Google Search Console;3
+Ahrefs;3
+Serpstat;3
+NetpeakSpider;3
+1С: Управление Торговлей;3
+1С: Комплексная автоматизация;3
+Амбициозность;3
+Обработка видео;3
+B2B;3
+Управление продуктом;3
+bitrix;3
+Умение работать в команде и самостоятельно;3
+Анализ поведения пользователей;3
+Business communication;3
+Быстро учусь;3
+Консультирование;3
+Прямой поиск;3
+Sales Skills;3
+Account Management;3
+Работа в CRM системе;3
+Сопровождение проектов;3
+Сбор и анализ информации;3
+Веб-аналитика;3
+Оценка потребностей клиентов;3
+Motion Design;3
+Моделирование бизнес процессов;3
+Холодные продажи;3
+Прогнозирование;3
+Power Query;3
+Маркетинговые коммуникации;3
+АСУ ТП;3
+Немецкий язык;3
+Медицинская документация;3
+Навыки переговоров;3
+IT;3
+PyTest;3
+Автоматизация тестирования;3
+ROS;3
+PowerBI;3
+Scripting;3
+Docker-compose;3
+sklearn;3
+Pyramid;3
+Rabbit;3
+clickhouse;3
+django;3
+Доверительное управление;3
+Коммуникабельность, ответственность;3
+Keras;3
+TensorFlow;3
+Sanic;3
+Vue Js;3
+ELK;3
+R;3
+Графика;3
+f2p;3
+Художник;3
+Гейм-дизайн;3
+Game Designer;3
+CryEngine;3
+Текстурирование;3
+Умение работать с детьми;3
+Unity3d;3
+разработки алгоритмов;3
+Анализ трафика;3
+Playable Ads;3
+PixiJS;3
+Photoshop;3
+Закупка рекламных материалов;3
+Applovin;3
+программирование;3
+Adobe Premier;3
+Tornado;3
+Vuejs;3
+cron;3
+Грамотная речь и письмо;2
+GIS;2
+Multithreading;2
+Get;2
+Websocket;2
+Crypto;2
+JNI;2
+RPC;2
+Сети;2
+Clean architecture;2
+koin;2
+FCM;2
+GitFlow;2
+Точность и внимательность к деталям;2
+Software Development;2
+Французский язык;2
+OkHttp;2
+OS Android;2
+Anr;2
+Работать в команде;2
+Поисковая оптимизация мобильного приложения;2
+RxJava 2;2
+React-Native;2
+HTTPS;2
+MsSql;2
+UDP;2
+Ответственный подход к работе;2
+Работа с ПК;2
+MacOS;2
+GPS;2
+mvvm;2
+Information Security;2
+js;2
+SIP;2
+Manual testing;2
+Functional testing;2
+Сокеты;2
+Prometheus;2
+Java Servlets;2
+Beta-тестирования;2
+Тестирование мобильных приложений;2
+Automation QA;2
+Игровое ПО;2
+Mobile Testing;2
+Lotus Symphony;2
+Регрессионное тестирование;2
+Boost;2
+DHCP;2
+Компилятор;2
+Интерпретатор;2
+ANTLR;2
+Продвижение в социальных группах;2
+Энтузиазм;2
+Architecture;2
+ci/cd;2
+Стремление к профессиональному росту;2
+Запуск новых продуктов;2
+Быстрое обучение;2
+Умение быстро усваивать новую информацию;2
+JSP;2
+Trading;2
+OCR;2
+Interviews;2
+Проведение собеседований;2
+Ubuntu Server;2
+Couchbase;2
+Maven;2
+MODx;2
+CouchDB;2
+BEM;2
+Высоконагруженные системы;2
+Front end;2
+DeFi;2
+TCP;2
+Битрикс24;2
+Billing;2
+WEB API;2
+.NET Core + Angular;2
+Babel;2
+Java 11;2
+Электроника;2
+MariaDB;2
+GO;2
+Salesforce;2
+RTOS;2
+Data Engineering;2
+Оптимизация запросов;2
+Английский язык (Upper-Intermediate);2
+Nest.js;2
+Express;2
+Cassandra;2
+Swing;2
+Нелинейное программирование;2
+Go lang;2
+ECMAScript;2
+Verilog HDL;2
+VHDL;2
+Mobile Development;2
+VUE JS;2
+.Net;2
+PinLayout;2
+NUnit;2
+Algorithms and Data Structures;2
+Drupal API;2
+Командный игрок;2
+Google Firebase;2
+Ember;2
+Svelte;2
+Ceph;2
+Rider;2
+Apache;2
+Казахский — B2 — Средне-продвинутый;2
+Польский — B2 — Средне-продвинутый;2
+VCS;2
+Etherum;2
+DApp;2
+SDK;2
+Контроль качества;2
+Подготовка коммерческих предложений;2
+Заключение договоров;2
+CSS-верстка;2
+Английский — B1 — Средний;2
+CMake;2
+Core Animation;2
+MS Dynamics CRM;2
+Базовые знания SQL;2
+MODX;2
+Блочная верстка;2
+RoR;2
+CocoaPods;2
+Грамотная устная и письменная речь;2
+Phaser;2
+ssh;2
+NET;2
+Junior;2
+Расстановка приоритетов;2
+CMS;2
+MS SharePoint;2
+Angular 2+;2
+AQA;2
+Администрирование сайтов;2
+Желание зарабатывать;2
+GCD;2
+next.js;2
+Technical Translation;2
+программироввние;2
+Внимательность;2
+Логическое мышление;2
+Биржевые торги;2
+Market Research;2
+Boot;2
+Data;2
+JMS;2
+EJB;2
+Ведение мобильных рекламных кампаний;2
+Умение находить общий язык;2
+Консультирование клиентов;2
+Телефонное интервью;2
+Axure RP;2
+БЭМ;2
+Product Marketing;2
+Разработка продукта;2
+Высокая скорость печати;2
+Мониторинг рынка;2
+VMware;2
+VBA;2
+Интернет маркетинг;2
+Арбитраж трафика;2
+Администрирование серверов Windows;2
+Создание сайтов;2
+Phyton;2
+Управление рисками;2
+Реклама;2
+Планирование рекламных кампаний;2
+Маркетинговая стратегия;2
+Ведение отчетности;2
+Умение планировать;2
+Медицинска статистика;2
+Конкурентная аналитика;2
+Стратегический консалтинг;2
+Разработка маркетинговой стратегии;2
+Техническая поддержка;2
+Основы маркетинга;2
+MS Outlook;2
+Product Owner;2
+Проектный менеджмент;2
+Планирование маркетинговых кампаний;2
+Дизайн интерьера;2
+1C: Предприятие;2
+Sales Management;2
+МСФО;2
+Написание текстов;2
+АСУ;2
+Adobe Acrobat;2
+Умение адаптироваться;2
+Автоматизация технологических процессов;2
+MS Office;2
+Розничная торговля;2
+Бизнес-планирование;2
+MS Navision;2
+Детская психология;2
+Запуск международных рекламных кампаний;2
+Стратегическое планирование;2
+Финансовый анализ;2
+телефонные продажи;2
+Ориентация на клиента;2
+Документальное сопровождение;2
+Претензионная работа;2
+Договорная работа;2
+MyTarget;2
+Медицинское оборудование;2
+Django REST Framework;2
+ARM;2
+NumPy;2
+XPath;2
+DjangoORM;2
+Инициативность;2
+Высокий уровень самоорганизации;2
+fastapi;2
+k8s;2
+HDFS;2
+Vertica;2
+Sentry;2
+CV;2
+Микросервисы;2
+Sklearn;2
+Mongo;2
+Заинтересованность;2
+Толерантность;2
+.net Core;2
+Графические редакторы;2
+CorelDRAW;2
+DS;2
+A/B тесты;2
+CUDA;2
+Cypress;2
+Behave;2
+Appsflyer;2
+MLOps;2
+Математическое программирование;2
+Matplotlib;2
+Teradata;2
+Желание работать и зарабатывать;2
+level design;2
+Разработка игр;2
+Гейм дизайн;2
+Mobile games;2
+Game design;2
+Producer;2
+RealFlow;2
+3D Studio Max;2
+Scratch;2
+Рисунок;2
+backend testing;2
+VSCode;2
+Maya;2
+ГДД;2
+Баланс игр;2
+Ironsource;2
+Chartboost;2
+UAC;2
+AppsFlyer;2
+MyTarger;2
+Unity Ads;2
+Tik-Tok;2
+Media Buying;2
+Проведение переговоров;2
+Virtual Reality;2
+Oculus;2
+Робототехника;2
+оформление документации;2
+Иллюстрирование;2
+Video Production;2
+Cisco;2
+F2P metrics;2
+Проактивность;2
+Креативность мышления;2
+Командная работа;2
+Artist;2
+manual testing;2
+GIMP;2
+Позитивное мышление;2
+OpenStack;2
+МИКРОСЕРВИСЫ;2
+Свободное владение английским языком;2
+SciPy;2
+Restful API;2
+DBA;2
+Многопоточность;2
+EF Core;2
+OpenOffice;2
+&amp; STL;2
+Spring Data;2
+Material UI;2
+Spring Security;2
+Elixir;2
+Phoenix;2
+webpack;2
+SVG;2
+Memcached;2
+yii2;2
+Модульное тестирование;2
+Net Core;2
+умение работать в команде;2
+Системы контроля версий;2
+PHP 7+;2
+WebPack;2
+Druid;2
+Знание MS Office;1
+Ревизия финансово-хозяйственной деятельности компании;1
+SwiftUI;1
+Collections;1
+IO;1
+Picasso;1
+Mvvm;1
+websocket;1
+GoF;1
+NDK;1
+Google Play;1
+Usability;1
+docrer;1
+Разработчик;1
+Программист;1
+developer;1
+LiveData;1
+системны управления базами данных;1
+1С: CRM ПРОФ;1
+Разработка приложения;1
+JSONRPC API;1
+UX/UI guidelines;1
+React hooks;1
+Crawler;1
+dagger2;1
+android tv;1
+RTSP;1
+API Android;1
+VSS;1
+Moxy;1
+AndroidX;1
+RealmSwift;1
+Kingfisher;1
+Swinject;1
+SwiftyBeaver;1
+ArKit;1
+Kotlin + Coroutines;1
+Retrofit + Gson/Moshi;1
+Architecture Components;1
+MVVM/MVI;1
+Coil;1
+Дружелюбие;1
+Дружелюбность;1
+самостоятельная работа;1
+Rx2;1
+Cicerone;1
+MV;1
+HTTP(S);1
+Выполнение поставленных задач;1
+Data Mining: Statistica;1
+Проявление тактичности и толерантности;1
+IDA;1
+Ghidra;1
+Windows Os;1
+Computer troubleshooting;1
+геолокация;1
+Инвестиционная деятельность;1
+CleanArchitecture;1
+реверс-инжиниринг;1
+BloC;1
+Backend testing;1
+SQL/noSQL;1
+тестування iOS/Android;1
+UI\UX;1
+Agile (Scrum);1
+Мобильное приложение;1
+Mobile and Web Testing;1
+Shell;1
+JavaSE;1
+Android CTS;1
+JIT;1
+Gabrage Collector;1
+GC;1
+Java VM;1
+ADB;1
+Harness;1
+test development;1
+benchmarks;1
+java development;1
+REST Client Postman/Insomnia;1
+Human Interface Guidelines;1
+Android Design Guide;1
+Xamarin iOS;1
+Xamarin Native;1
+Xamarin Android;1
+Cucumber;1
+appium;1
+Djinni;1
+Gerrit;1
+Работа с большим пулом запросов;1
+Haproxy;1
+dart;1
+Pinnacle Studio;1
+AssetBundles;1
+разработка приложений под android;1
+UGui;1
+desktop testing;1
+web testing;1
+mobile testing;1
+client-server architecture;1
+Автоматическое тестирование;1
+BrowserStack;1
+LambdaTest;1
+Fiddler;1
+Автоматизированное тестирование;1
+Project Expert;1
+MS Project Expert;1
+Jmeter;1
+тест дизайн;1
+Интеграционное тестирование;1
+Тестовая документация;1
+Мотивированность;1
+Zyphyr;1
+Appium;1
+Web testing;1
+Manual;1
+Администрирования Linux;1
+Proxmox;1
+Bug Tracking Systems;1
+testrail;1
+Криптография;1
+QWidgets;1
+Testing Framework;1
+CI / CD;1
+UIkit;1
+Mobile;1
+MSVS;1
+senior developer;1
+middle developer;1
+ASP.NET Framework;1
+Razor;1
+activedirectory;1
+Настройка DNS;1
+winserver 2019;1
+win10;1
+iis8;1
+mssql;1
+ksc/kep;1
+mikrotik OS;1
+google play;1
+app store;1
+Написание сценариев;1
+Desktop;1
+Эрудированность;1
+Русский — B2 — Средне-продвинутый;1
+AndroidTV;1
+HTTP/HTTPS;1
+ORMLite;1
+Корутины;1
+Многомодульность;1
+Glide;1
+Ведение активных клиентов;1
+Viper;1
+audio processing;1
+dagger;1
+RxJava2;1
+Эффективное решение проблем;1
+способность быстро обучаться и легко воспринимать крупные объемы информации;1
+Опытный пользовать ПК, знание MS Office;1
+RxKotlin;1
+Protobuf;1
+FireBase;1
+UI-компоненты;1
+JavaRx;1
+MVС;1
+Android NDK;1
+Visual C++;1
+Scarlet;1
+Brokerage;1
+Финтех;1
+RXJava;1
+Выполнение тестов приложений на мобильных устройствах;1
+создание инструментов для тестирования;1
+MVP/MVVM;1
+Проектная деятельность;1
+Cosmos SDK;1
+Chromium Embedded Framework;1
+V8;1
+MS Teams;1
+JS, ReactJS;1
+Настройка серверов Apache;1
+Angular5;1
+Algorithms;1
+Trading system;1
+Docker&amp;Kubernetes;1
+CI/DI;1
+Spring MVC;1
+Futures;1
+Усердие;1
+Навыки эффективного общения;1
+Hazelcast;1
+Polkadot;1
+smart contract;1
+Manticore;1
+Разработка ПО, Средний (Middle);1
+realm;1
+full stack;1
+web3.js;1
+Bitrix Framework;1
+Битрикс 24;1
+CRM Bitrix24;1
+CRM Битрикс 24;1
+Инвестиции;1
+Парус;1
+Кадровый менеджмент;1
+Tomcat;1
+WildFly;1
+Geoserver;1
+Payments;1
+Grails;1
+Vanilla JavaScript;1
+КриптоПро;1
+TS;1
+cross-browser layout;1
+CSS/JS animation;1
+Sass/Less;1
+Experience with Figma / Sketch / Photoshop;1
+E-Staff;1
+WebTutor;1
+Unreal engine;1
+NPM;1
+illumos;1
+dilos;1
+Solaris;1
+Unix Shell Scripts;1
+RestAPI;1
+Выездные мероприятия;1
+data structures and algorithms;1
+angular;1
+Web Services;1
+System Integration;1
+Dell Boomi;1
+MS Front Page;1
+Embedded;1
+C language;1
+GSM;1
+English language;1
+Team Development;1
+Project Finance;1
+MQ;1
+math models;1
+NoSQL/SQL databases;1
+algorithmic;1
+Аутсорсинг;1
+Smart-contract;1
+REST APIs;1
+Mobile Application Development;1
+Graphana;1
+Angular2;1
+Graphite;1
+PWA;1
+ServiceWorkers;1
+Немецкий — B1 — Средний;1
+Writing Articles;1
+Oral Translation;1
+DynamoDB;1
+Kinesis;1
+ATG;1
+AWS Cognito;1
+frontend фреймворк;1
+Vue 2;1
+JavaScript (ES6);1
+Webpack 2;1
+оптимизация верстки;1
+Рефакторинг;1
+Es6;1
+Autolayout;1
+Firebase Analytics/Remote Config;1
+iOS Development;1
+Micro Services architecture;1
+CQRS;1
+Exasol;1
+RUST;1
+NFT;1
+elastic;1
+solr;1
+Azure Cloud;1
+Google Kubernetes Engine;1
+ASP.NET Web API;1
+unit-тесты;1
+.NET Framework 4 / .NET 5;1
+.NET Framework 4.6;1
+Azure Kubernetes Engine;1
+GRDB;1
+PromiseKit;1
+Shell Scripting;1
+Zoom;1
+Web API;1
+Rails 6;1
+Ruby 2.6 &amp; &gt;;1
+CoffeeScript;1
+Slim;1
+mysql - postgreSql;1
+sql syntax;1
+Html 5;1
+Deno;1
+Posix;1
+OSI;1
+Микросервисная архитектура;1
+AWS API;1
+разработка;1
+mobile;1
+flux;1
+redux;1
+mobile development;1
+Apache Pulsar;1
+RestApi;1
+git-flow;1
+JPQL;1
+EclipseLink;1
+Vaadin;1
+Thymleaf;1
+FreeMarker;1
+DOMObject;1
+reactJS;1
+SAAS+COMPASS;1
+Bamboo;1
+spring boot;1
+нагруженные REST сервисы;1
+микросервисная система;1
+реалтайм;1
+ES 6/7;1
+kafka;1
+Деловой этикет;1
+Magento 2;1
+Zend Framework 2;1
+RequireJS;1
+React Typescript;1
+Английский язык - В1 - средний;1
+PIMCORE;1
+PHP 5.5+;1
+Symfony 2+;1
+RESTful WebServices;1
+java 8-11;1
+Spring-boot;1
+Jms;1
+PL SQL;1
+Vyper;1
+Teal;1
+Blochchain;1
+full-stack;1
+Web3;1
+odoo;1
+Архитектура;1
+Мобильное прилоложение;1
+azure;1
+moya;1
+IB;1
+Storyboard;1
+AutoLayout;1
+CoreAnimation;1
+Ответственное хранение;1
+Google Chrome;1
+MS Dos;1
+Технический склад ума;1
+Работа в коллективе;1
+Capex;1
+Управление продажами;1
+Управление лояльностью потребителей;1
+Анализ рисков;1
+Анализ финансовых показателей;1
+Привлечение клиентов;1
+ArchiCAD;1
+dotnet core;1
+HTML-верстка;1
+X++;1
+Аналитический склад ума, способность к освоению новых технологий;1
+Знание основных принципов функционирования СУБД;1
+ASP.Net Core Blazor WebAssembly;1
+GCD(QOS);1
+Embedded Systems;1
+Vagrant;1
+WooCommerce;1
+Codable;1
+Анализ кода;1
+Retrofit2;1
+php7;1
+Joomla;1
+Сomposer;1
+Oracle DB;1
+Маркетплейсы;1
+ПК;1
+Google таблицы;1
+BASIC;1
+Capybara;1
+Pspec;1
+Regexp;1
+Xpath/CSSPath;1
+Организация офисного переезда;1
+iOSSDK;1
+Сосредоточенность;1
+OpenCart;1
+c# developer;1
+.net;1
+.NET CORE;1
+Visual Studio Net;1
+Data Base;1
+Ecom;1
+Bitrix VM;1
+Мозг;1
+XAML;1
+Внимание к качеству;1
+Problem solving;1
+haskell;1
+quality assurance theory;1
+Manual QA;1
+Windows API;1
+graphQI;1
+желательно опыт работы с фреймворками Умение быстро овладевать новыми технологиями;1
+Modx;1
+Web Design;1
+TFS;1
+Инженер-программист;1
+Software Developer;1
+JavaScript Engineer;1
+bpmonline;1
+Terrasoft;1
+creatio;1
+Коммуникабильность;1
+Стабильность;1
+Meteor;1
+QA Automation;1
+ES5;1
+Vuetify;1
+axios;1
+UMI CMS;1
+highload;1
+начало карьеры;1
+Google Datastudio;1
+u-boot;1
+Retail;1
+RxPM;1
+Engineering;1
+опыт в мануальном тестировании;1
+знание уровней и видов тестирования;1
+понимание цикла разработки программного обеспечения;1
+UWP;1
+Желание учиться;1
+Management Reporting;1
+RxCocoa;1
+SPD;1
+backend;1
+powerful UX\UI;1
+Intermediate English;1
+Приемочное тестирование;1
+Исследовательское тестирование;1
+Тестирование юзабилити;1
+Разработка тест-кейсов;1
+unit тесты;1
+Мaven;1
+Mobile development;1
+Flutter development;1
+OOP/SOLID;1
+DDD;1
+Способность анализировать проблемы, эффективно искать пути их решения;1
+Check-list;1
+Анализ требований;1
+Хорошая обучаемость;1
+Продвижение в социальных сетях;1
+Google Play Store;1
+technical design;1
+free to play;1
+match3;1
+Training;1
+Sping Framework;1
+Коммуникативные навыки;1
+Cash Management;1
+Cash Flow;1
+Payments processing;1
+Project Documentation;1
+Sidekiq;1
+eCommerce;1
+x-ray;1
+1С: Розница;1
+Английский В1;1
+Agile/Scrum/XP;1
+TDD/DDT;1
+гейм дизайн;1
+Back-end;1
+B2C Marketing;1
+J2EE;1
+RESTful;1
+WSDL/XSD/XML;1
+Создание конфигурации 1С;1
+D7;1
+Продвижение за рубежом;1
+Теория тестирования;1
+Batch;1
+Integration;1
+SDLC;1
+1С: Документооборот;1
+XML Dom;1
+CURL;1
+Sales Forecasting;1
+CMS 1С Битрикс;1
+Взаимодействие с заказчиком;1
+Знание английского;1
+Web-сервис;1
+Creativity;1
+Бренд-менеджмент;1
+IBM MQ Series;1
+Forecasting;1
+Trade Marketing;1
+Ценообразование;1
+Client management;1
+Investor Relations;1
+Обеспечение техники безопасности;1
+Машинная лингвистика;1
+Natural language processing;1
+Flex-box технологии;1
+Bootstrap 4;1
+Разработка стратегии продвижения продуктов;1
+Уверенный пользователь ПК;1
+Монтаж видео;1
+Video Editing;1
+Оценка компетенций;1
+Формирование планов по подбору персонала;1
+Windows Server 2003;1
+Veeam;1
+Reporting;1
+Мне не все равно;1
+Affiliate Marketing;1
+Бином;1
+Binom;1
+Фейсбук реклама;1
+Customer Support;1
+LAN;1
+Администрирование сетевого оборудования;1
+Настройка сетевых подключений;1
+Product development manager;1
+Product;1
+Планирование;1
+Умение работать с людьми;1
+Информационные системы;1
+hadoop;1
+NiFi;1
+чужой код;1
+Яндекс API;1
+junior;1
+middle;1
+Ит аудит;1
+Access;1
+Written Translation;1
+Риск-менеджмент;1
+Работа в режиме многозадачности;1
+Разработка PR стратегии;1
+SERM;1
+1С: Управление Производственным Предприятием;1
+1С: Торговля;1
+Автоматизация медицинских процессов;1
+Доброта;1
+Unit-экономика;1
+Управленческое консультирование;1
+Организационное консультирование;1
+DragonBones;1
+GameDave;1
+2D;1
+2D-анимация;1
+Knowledge of Ukrainian tax legislation;1
+Transfer Pricing;1
+Умение вести переговоры;1
+Составление технических заданий;1
+Бизнес-процессы;1
+Коммуникация;1
+Business Process Reengineering;1
+Operations transformation;1
+Helpdesk;1
+битрикс24;1
+Таргетированная реклама;1
+Консультация клиентов;1
+ITSM;1
+Strategic Planning;1
+Маркетинговое планирование;1
+Умение работать в режиме многозадачности;1
+Стрессоустойчивость;1
+Risks assessment;1
+IT Audit;1
+CISM;1
+CISA;1
+CISSP;1
+IT controls;1
+Cyber security;1
+CusDev;1
+kanban;1
+JTBD;1
+Прямые продажи;1
+Marketing;1
+ATS;1
+Relationship Management;1
+Communication skills;1
+Power Pivot;1
+Разработка и внедрение системы KPI;1
+Consultant Plus;1
+Дизайн-мышление;1
+качественные исследования;1
+M&amp;A;1
+Corporate Finance;1
+Investment Analysis;1
+Оценка рисков;1
+Управление бюджетом;1
+Ведение групп в социальных сетях;1
+Партнерские программы в социальных сетях;1
+Продвижение мероприятий компании в социальных сетях;1
+Работа с opinion лидерами в социальных сетях;1
+Social Media Marketing;1
+Аудит SMM;1
+Участие в профессиональных выставках;1
+Twitter Api;1
+Meta;1
+Техническое задание;1
+Risk management;1
+Кадровое планирование;1
+Оценка персонала;1
+Audit;1
+ACCA;1
+IFRS;1
+Аудит;1
+Написание статей;1
+Редактирование текстов;1
+Редактирование;1
+Наполнение контентом;1
+FBD;1
+CODESYS;1
+Turbo Pascal;1
+MSQL;1
+Настройки сетевый подключений;1
+ST;1
+SCADA;1
+Дисциплинированный;1
+Опрятный внешний вид;1
+Обучаемый;1
+Автоматизация производства;1
+Техническая документация;1
+Навыки работы с клиентами;1
+Закупки;1
+ABC-анализ;1
+Планирование ассортимента;1
+Работа с поставщиками;1
+Проведение промо акций;1
+SAP ERP;1
+ABAP;1
+Безопасность;1
+Внедрение систем информационной безопасности;1
+Возрастная психология;1
+Медиапланирование;1
+Производство рекламных материалов;1
+PR;1
+Работа со СМИ;1
+Оценка инвестиционных проектов;1
+Анализ инвестиционных проектов;1
+Логистический менеджмент;1
+Стратегический анализ;1
+Корпоративные продажи;1
+проведение переговоров с первыми лицами компании;1
+Управленческие навыки;1
+Локализация продукта;1
+Подбор ключевых слов;1
+ASO;1
+Японский язык;1
+Корейский язык;1
+Автотестирование;1
+Обучаемость;1
+Практическая медицина;1
+Навыки работы с первичной документацией;1
+Первичное обследование;1
+Бизнес-консультирование;1
+Самообучаемость;1
+Разработка сайтов;1
+Оптимизация бизнес процессов;1
+Маркетинг, реклама, PR;1
+Вовлеченность персонала;1
+Трудовое законодательство РФ;1
+Система мотивации;1
+Системная интеграция;1
+Microsoft Dynamics AX;1
+AXAPTA;1
+ERP Systems;1
+бизнес аналитик;1
+Учет ТМЦ;1
+разработка чертежей;1
+BIM;1
+Бюджетирование;1
+разработка новой функциональности;1
+Химические методы анализа;1
+Аналитическая химия;1
+Биомолекулы;1
+Dialux;1
+Создание книги;1
+Развитие бренда;1
+Продвижение объекта;1
+HTML 5;1
+Учет товаров;1
+Работа с оргтехникой;1
+Материальная ответственность;1
+es6+;1
+GMP (Good Manufacturing Practice);1
+Маркетинг услуг;1
+Корпоративное право;1
+Регистрация юридических лиц;1
+Делопроизводство;1
+Юридическая поддержка;1
+Гражданский кодекс РФ;1
+Трудовой кодекс РФ;1
+теория вероятностей;1
+математика;1
+мат анализ;1
+финансовая математика;1
+Сопровождение клиентов;1
+Mockito;1
+SAP HR;1
+Selenide;1
+Разработка регламентов;1
+Подготовка документов;1
+Написание инструкций;1
+планировать и оптимально организовать рабочий процесс;1
+исследование кода;1
+поиск уязвимостей;1
+анализ исходных кодов;1
+Управление процессами;1
+Управление бизнес процессами;1
+REACT;1
+С/С++;1
+Lumen;1
+Прикладная разработка;1
+Аналитик;1
+Торговая площадка;1
+ERP-системы на базе 1С;1
+Больничные листы;1
+Лечебная деятельность;1
+Неотложная помощь;1
+Ведение истории болезни;1
+Гражданское право;1
+Земельное право;1
+Автоматизация процессов;1
+1С: Бухгалтерия;1
+Google Cloud Platform;1
+Желание расти и развиваться;1
+Raspberry pi;1
+OpenWRT;1
+Software Architecture;1
+Nameko;1
+Tensorflow.js;1
+машинное обучение;1
+Raspberry;1
+MavLink;1
+БПЛА;1
+Техническая подкованность;1
+Scrapy;1
+Splash;1
+Aiohttp;1
+Apache Airflow;1
+Prefect;1
+Apache kafka;1
+SLAM;1
+FastAPi;1
+DAX;1
+Amazon Web Services;1
+Dramatiq;1
+Pipeline;1
+RStudio;1
+Исполнительность;1
+Adobe After Effects;1
+ExtendScript;1
+Podman;1
+Elastic;1
+RedShift;1
+BigQuery;1
+terraform;1
+dockers;1
+Slack;1
+GraphQl;1
+PHP, Java, Objective C;1
+Эквайринг;1
+Squid;1
+InfluxDB;1
+pytest;1
+gitlab;1
+Оперативное планирование;1
+tornado;1
+AioHTTP;1
+git, linux, docker;1
+NER;1
+Искусственный интеллект;1
+Apache Spark;1
+Neo4j;1
+Stripe;1
+EFK;1
+K8s;1
+XGBoost;1
+matplotlib;1
+lgbm;1
+docker-compose;1
+Data Scientist;1
+computer vision;1
+machine learning;1
+Язык C;1
+AWS S3;1
+Работа с людьми;1
+Sas;1
+Микро-сервисная архитектура;1
+electron.js;1
+Time Series Analysis;1
+IBM MQ;1
+Tyk Api Gateway;1
+Jinja2;1
+Умение вести переписку;1
+Apache AirFlow;1
+SQLAlchemy ORM;1
+RDBMS;1
+Google BigQuery;1
+Automation Testing;1
+PHP4;1
+Adobe InDesign;1
+SRE;1
+site reliability engineering;1
+rest api;1
+meteor.js;1
+Caffe;1
+RecSys;1
+SWE;1
+MLE;1
+Линейная алгебра;1
+Искусственный интеллект AI;1
+Product Metrics;1
+Adjust;1
+Revenue Cat;1
+Amplitude;1
+Google Data Studio;1
+Looker;1
+Scikit-learn;1
+Инструктор;1
+Тренинги;1
+CherryPy;1
+Kong;1
+OpenResty;1
+IP/DNS;1
+Анализ больших данных;1
+нейронные сети;1
+scikit-learn;1
+Google;1
+MS Azure;1
+Статистика;1
+Ad Hoc Analysis;1
+Tableau Desktop;1
+BI;1
+hive;1
+airflow;1
+навыки статистической обработки данных;1
+Анализ временных рядов;1
+Кластерный анализ;1
+Турбоагрегат;1
+Насос;1
+Электродвигатель;1
+Вибродиагностика;1
+PostgreSQL/PostgreSQL Pro;1
+DNS;1
+SFTP;1
+SYSTEMD;1
+Mathematical Modeling;1
+Google cloud;1
+Reddis;1
+UnrealEngine 4;1
+AI;1
+Желание обучаться;1
+Google adMob;1
+Casual Games;1
+SketchUp;1
+Программирование 3D-графики;1
+ar;1
+левел дизайн;1
+проектирование уровней;1
+создание уровней;1
+#C;1
+cocos2dx;1
+game design;1
+Разработка мобильных Игр;1
+Unity UI;1
+Моделирование;1
+Экономика;1
+3dsMax;1
+Motionbuilder;1
+Аdobe Photoshop;1
+Unity GUI;1
+Левел-дизайн;1
+Level design;1
+Генерация идей;1
+компьютерное зрение;1
+Adobe Animate;1
+Blueprints;1
+GTA;1
+Racing;1
+Sandbox;1
+Анимация персонажей;1
+Анимационные ролики;1
+геймдев;1
+ClickUP;1
+Mari;1
+Adobe;1
+разработка игр;1
+C;1
+Shaders;1
+MR;1
+F2p;1
+blueprints;1
+Работа с детьми;1
+Умение обучать других людей;1
+DirectX;1
+GNM;1
+Xbox One;1
+Xbox Series X;1
+Switch;1
+PS4;1
+PS5;1
+XB1;1
+Vulkan;1
+Metal;1
+GNMX;1
+XBSX;1
+AGC;1
+DX12;1
+Roblox;1
+PyGame;1
+PyQT;1
+Sketch;1
+рынок мобильных приложений;1
+построение экономики игры;1
+монетизация игр;1
+аналитика рынка приложений;1
+Разработка сеттинга игры;1
+Разработка концепта игры;1
+Adobe XD;1
+Front-end;1
+Способность обучать других;1
+Баланс;1
+Продажи через интернет;1
+teradata;1
+dba;1
+admob;1
+Codeigniter;1
+Technical Artist;1
+TechArt;1
+Substance Designer;1
+Трудоспособность;1
+Терпимость;1
+Popcorn;1
+Балансировка игровых механик;1
+MaxV-Ray;1
+Профессиональный пользователь ПК;1
+постановка задач;1
+ARkit;1
+Atlassian CI/CD;1
+Product owner;1
+game;1
+Маркетинг;1
+Таргетинг;1
+Запуск федеральных рекламных кампаний;1
+Лидогенерация;1
+умение организовывать работу и планировать выполнение задач;1
+Рисование от руки;1
+ParticleSystem;1
+Первичные документы;1
+Blendr;1
+Relational DBMS;1
+Data Platform;1
+Defold;1
+Performance marketing;1
+Mobile Marketing;1
+User Acquisition;1
+Продвижение мобильных приложений;1
+СРI;1
+Google SketchUp;1
+unity 3d;1
+hyper casual;1
+hybrid casual;1
+Photon;1
+Роботизация и автоматизация;1
+Game designer;1
+Построение тестирований;1
+Документация;1
+UnityUI;1
+Games;1
+kodu;1
+Anime studio;1
+Hardware;1
+Arduino;1
+Level Art;1
+Low Poly;1
+дополнительное образование;1
+user acquisition;1
+UA;1
+CPI;1
+Traffic Analysis;1
+Google UAC;1
+Vungle;1
+High Poly/Low Poly modelling;1
+Texture Painting;1
+Corona Render;1
+Работа с ключевыми клиентами;1
+Продажа комплексных проектов;1
+Составление отчетности;1
+Владение ПК на уровне уверенного пользователя;1
+V-Ray;1
+Сasual;1
+методист;1
+minecraft;1
+разработка приложений;1
+sprite sheet;1
+Shader Graph;1
+HLSL;1
+Тестирование гипотез;1
+2D/3D-контент;1
+Визуализация;1
+Иллюстрация;1
+Adobe Dreamweaver;1
+Казахский — C2 — В совершенстве;1
+Administrating Skills;1
+steam VR;1
+oculus integration;1
+XR tools;1
+arFoundation;1
+vuforia;1
+Unity 3D (C#);1
+Геймдизайн;1
+Чувство стиля;1
+substance;1
+Композиция;1
+Художественный вкус;1
+Графический планшет;1
+Векторная графика;1
+Дизайнер;1
+Drawing;1
+разработчик c#;1
+Знание Unity;1
+Планирование и организация;1
+Умение работать в стрессовых ситуациях;1
+Обучение детей;1
+видеограф;1
+Тест-дизайн;1
+MODO;1
+Организация корпоративных мероприятий;1
+Стремление к развитию;1
+timeline;1
+unreal engine;1
+Индивидуальное обучение;1
+Групповые программы;1
+ReactJs;1
+spine;1
+Flash;1
+офис;1
+HTML, JavaScript + конструктор (platforma LP/Tilda/Wix),;1
+Python для программирования в Minecraf,;1
+Графические редакторы или собиратели приложений,;1
+Платформа Unity3D + С#,;1
+Java для программирования игр.;1
+2D art;1
+3D art;1
+Qlik Sense;1
+parsing;1
+Высокая скорость работы;1
+ZeroMQ;1
+AIOHTTP;1
+DNN;1
+Линейное программирование;1
+ML/DL basics;1
+Общение с людьми;1
+Приветливость;1
+Умение проявлять тактичность и толерантность;1
+Twisted;1
+Solr;1
+Tarantool;1
+algorithms;1
+Data structures;1
+Multiprocessing;1
+AsyncIO;1
+Http Proxy;1
+RebbitMQ;1
+async;1
+Flask Framework;1
+Maria DB;1
+Pulsar;1
+Integration Testing;1
+Algorithmic trading;1
+Algotrading;1
+aio-http;1
+fastAPI;1
+Unit-тесты;1
+py.test;1
+mock;1
+WEB;1
+GDAL;1
+Gunicorn;1
+MI;1
+ActiveMQ;1
+Machine learning;1
+Customer Service;1
+Customer orientation;1
+Falcon;1
+Python 3.x;1
+Memcache;1
+IBM DataStage;1
+SAS DI;1
+Oracle DI;1
+Task tracker;1
+Continuous Integration / Continious Delivery;1
+multithreading;1
+async/await;1
+Address clustering / tagging;1
+BlockSci;1
+Django REST;1
+ПЛК;1
+flask/fast api;1
+уверенный ООП;1
+gcp;1
+aws;1
+Odoo;1
+FFmpeg;1
+SonarQube;1
+криптография;1
+язык C;1
+Python/C;1
+Linux Docker MySQL PostgreSQL Jenkins TeamCity Python;1
+RPA;1
+BERT;1
+fasttext;1
+Word2Vec;1
+VFP;1
+T-SQL;1
+Internet;1
+Business Strategy;1
+компьютерные курсы;1
+IT-технологии;1
+информатика;1
+вычислительная техника;1
+компьютерная безопасность;1
+Ansi C++;1
+промышленное программирование;1
+Биржевое ПО;1
+GCC;1
+make/cmake;1
+Embedded Linux;1
+Google Cloud;1
+socket.io;1
+cmake;1
+с.NET;1
+Angular2+;1
+web3;1
+Смелость;1
+Логика;1
+Достижение результата;1
+1С8;1
+Способность быстрого погружения в различные предметные области;1
+Дисциплинированность;1
+Знание и опыт вёрстки HTML;1
+Знакомство с JavaScript (jQuery);1
+Знакомство с реляционными базами данных;1
+Терпеливость;1
+Навыки разрешения спорных ситуаций;1
+Владение иностранными языками;1
+Сдержанность;1
+Vue JS;1
+.NET core;1
+Raft;1
+F#;1
+Разработчик Баз Данных;1
+Разработчик баз данных;1
+.Net Framework 4.7+;1
+EF6;1
+NET Core (3.1, 5);1
+TPL;1
+Unit tests;1
+Styled Components;1
+Собранность;1
+MS Movie Maker;1
+Умение работать с большими объемами данных;1
+Code Review;1
+PosqreSQL;1
+Смарт - контракты;1
+DML;1
+DDL;1
+Webpack 4;1
+Стремление развиваться;1
+apache airflow;1
+kuber;1
+VUEjs;1
+net core;1
+Rational Rose;1
+Parcel;1
+ReactQuery;1
+Grid;1
+SpringBoot;1
+HTTP-based API;1
+Codeception;1
+Flexbox;1
+Android TV;1
+Работа в Vuejs / Symfony.;1
+GRASP;1
+Spring Boot 2;1
+sagas;1
+Craft CMS;1
+PHP 8;1
+JetBrains Space;1
+Akka;1
+Vault;1
+JSON-RPC API;1
+MS CRM;1
+Terrasoft CRM;1
+MS Dynamics;1
+WP Codex;1
+самостоятельность;1
+TSQL;1
+Организационные навыки;1
+JSON RPC;1
+DataScience;1
+restful api;1
+SCSS/LESS;1
+PostreSQL;1
+liquibase;1
+Production;1
+Stress Management;1
+Continuous Integration;1
+Angular 6+;1
+Angular 9-11;1
+Percona;1
+XtraDB Cluster;1
+Percona toolkit components;1
+high-load;1
+WebAPI;1
+asp.net core;1
+lerna;1
+yarn workspaces;1
+HTTP2;1
+Caching;1
+Headers;1
+vuex;1
+User Acceptance Testing;1
+Sequelize;1
+Moleculer;1
+NoSQL or SQL databases;1
+Back-end knowledge;1
+JEE;1
+AWS Stack;1
+Styled-Components;1
+OpenAPI;1
+Storybook;1
+Doctrine 2;1
+blockchain;1
+JavaScript ES6;1
+Debian/Ubuntu Linux;1
+legacy;1
+SPA приложения;1
+PHP 5.6+;1
+Node Package Manager;1
+Консистентный код;1
+Юмор;1
+Разработка;1
+Frontend-разработчик;1
+Xdebug;1
+Apache Solr;1
+Знание одного из фреймворков HapiJS / NestJS / Express;1
+Уверенное использование структур данных, знание сильных и слабых сторон;1
+Знания основ сетей, сетевых протоколов;1
+Базовые навыки работы HTTP, WS;1
+Базовые знания RestAPI, RPC;1
+Базовае знания sql баз данных;1
+Базовые знания ОРМ sequelize, sequelize-typescript и его базовых функций;1
+Умение построить отношения между таблицами;1
+Понимание ассинхронного программирования (Async/Await);1
+Базовое понимание принципов ООП;1
+Знание JWT;1
+Знание Joi(Валидации);1
+Навыки использование swagger;1
+Чистота кода;1
+Базовые знание Git flow;1
+Навыки использования и работы с удаленными репозиториями;1
+Знание комманд Git;1
+Умение работать с переменными окружения;1
+pydantic;1
+mypy;1
+EMF;1
+Sirius;1
+Gearman;1
+Supervisor;1
+Memсached;1
+PSR;1
+GWT;1
+Spring DATA;1
+Spring REST;1
+composer;1
+React native;1
+xUnit;1
+NET Core;1
+WEB аналитика;1
+Middle;1
+Fintech;1
+Основы SQL;1
+Xamarin.Forms;1
+PhoneGap;1
+Ext Direct;;1
+PHP 7.x, ООП, MVC, Laravel, Yii2, Composer, разработка API, Redis (Memcached), Nginx, RabbitMQ, Post;1
+Greenplum;1
+LifeRay;1
+Twig;1
+MySQL 5;1
+Redis (Memcached);1
+Linux, Perl, PostgreSQL, pgbouncer, Nginx, Apache, GitLab, JSON, SOAP, REST,;1
+React+Netx.js(SSR)+Webpack 4/5;1
+TypeScript, ES6;1
+Sphinx;1
+Atlassian;1
+Перфекционизм;1
+Работа с чужим кодом;1
+Nest;1
+VUE;1
+NgRx;1
+Wagtail;1
+October;1
+UnixLike;1
+MSSQL;1
+YouTrack;1
+Object Oriented Design;1
+relational databases is desirable;1
+Pug;1
+CMS Bitrix;1
+TypeORM;1
+Вовлеченность;1
+Высокие коммуникативные навыки;1
+Умение слушать и слышать;1
+Умение организовать работу, планировать, принимать решения;1
+РНР;1
+Rolllup;1
+Canvas;1
+Pixi.js;1
+Microsoft IIS;1
+http/https;1
+Node;1
+Crypto API;1
+TypedArray;1
+Web.API;1
+Веб-разработка;1
+Tailwind;1
+Skype;1
+MRC;1
+ARC;1
+CFNetwork;1
+OpenGL ES;1
+Saga;1
+Styled-components;1
+canvas;1
+iframe;1
+Думать головой;1
+•Хорошее знание языка C/С++;1
+•Хорошее знание Linux;1
+•Опыт разработки драйверов для Linux;1
+CMS OpenCart;1
+Работа с компьютером;1
+ESB;1
+SCSS,;1
+B2C;1
+Total Commander;1
+Структуры данных;1
+Cocoa.Framework;1
+FICO;1
+Wildfly;1
+Vue js/React js;1
+Yandex Maps API;1
+Высокий уровень обучаемости;1
+MS Dynamics NAV;1
+MBS Navision;1
+Мотивация;1

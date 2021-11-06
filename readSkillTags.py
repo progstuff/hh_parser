@@ -13,7 +13,7 @@ import headHunterSearchParcer as hhParser
 import os
 
 
-def getUniqueVacancies(directoryName):
+def getUniqueElements(directoryName):
     files = os.listdir(directoryName)
     vacancies = []
     for f in files:
@@ -62,7 +62,7 @@ def deleteVacancies(vacancies, listVacancies):
 def main():
 
     inputDirectoryName ='headHunterVacancies'
-    vacancies1 = getUniqueVacancies(inputDirectoryName)
+    vacancies1 = getUniqueElements(inputDirectoryName)
 
     listVacancies = ['Курьер', 'курьер', 'Водитель','водитель','Комплектовщик', 'комплектовщик', 'технолог', 'Технолог']
     vacancies = deleteVacancies(vacancies1, listVacancies)
