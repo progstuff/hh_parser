@@ -25,11 +25,40 @@ class Vacancy:
     def getVacancyStr(self):
         return self.name + ';' + self.ref
 
+class VacancyDetailedInfo(Vacancy):
+    def getVacancyData(self, vacancyText):
+        i1 = vacancyText.find('http')
+        self.ref = vacancyText[i1:len(vacancyText)-1]
+        self.name = vacancyText[0:i1-1]
+
+    def loadVacancyPage(self):
+        headers = {
+
+            'Host': 'tver.hh.ru',
+            'Connection': 'keep-alive',
+            'sec-ch-ua': '"Google Chrome";v="95", "Chromium";v="95", ";Not A Brand";v="99"',
+            'sec-ch-ua-mobile': '?0',
+            'sec-ch-ua-platform': '"Windows"',
+            'Upgrade-Insecure-Requests': '1',
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36',
+            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+            'Sec-Fetch-Site': 'same-origin',
+            'Sec-Fetch-Mode': 'navigate',
+            'Sec-Fetch-User': '?1',
+            'Sec-Fetch-Dest': 'document',
+            'Referer': 'https://tver.hh.ru/search/vacancy?clusters=true&ored_clusters=true&enable_snippets=true&salary=&text=developer',
+            'Accept-Encoding': 'gzip, deflate, br',
+            'Accept-Language': 'ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7'
+        }
+        r = requests.get(url = self.ref, headers = headers)
+        return r
+
 class SearchPageParser:
     def setPageText(self, pageText):
         self.elementIndexStart = []
         self.vacancyText = []
         self.pageText = pageText
+        self.skillTags = []
 
     def findElements(self, keyWord):
         t = self.pageText
@@ -59,6 +88,16 @@ class SearchPageParser:
             self.vacancyText.append(self.pageText[i1:i1 + i2])
 
         i = 5
+
+    def findSkillTags(self):
+        n = len(self.pageText)
+        for i in self.elementIndexStart:
+            i1 = i
+            i2 = self.pageText[i1:n].find('</span>')
+            if(self.pageText[i1] == '>'):
+                self.skillTags.append(self.pageText[i1 + 1:i1 + i2])
+            else:
+                self.skillTags.append(self.pageText[i1:i1 + i2])
 
 class HeadHunterParser:
 
